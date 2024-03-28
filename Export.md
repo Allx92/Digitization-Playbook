@@ -26,7 +26,7 @@
 ## Export Format & Size
 
 - Change bit depth to **16 bit**.
-- Set the resolution: This can be either **400** or **600**, depending on the pixel density the photo was shot in.
+- Set the resolution: This can be either **400** or **600 PPI**, depending on the pixel density the photo was shot in.
 
 ## Export Location
 
