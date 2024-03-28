@@ -14,7 +14,8 @@
 - Digit counter: Set a 4-digit counter. You can change the counter as needed.
 
 - Set number counter: For the left computer page, use page 1 and for the right computer page use page 2.
-- Set counter increment: This should be set to **2**.
+- Set counter increment: This should be set to **2** because the increments increase in this manner .
+- the useer of Workstation 1 is done in odd numbers while the disignated user of  workstation 2 scans the page in even numbers.
 - Click **'RENAME'**. (TO WHAT EXACTLY)
 
 ## Export Tool
@@ -25,8 +26,8 @@
 
 ## Export Format & Size
 
-- Change bit depth to **16 bit**.
-- Set the resolution: This can be either **400** or **600 PPI**, depending on the pixel density the photo was shot in.
+- Change bit depth to **16 bit** as this is the default setting
+- Set the resolution: This can be either **400** for larger format material or **600 PPI** for mostly Books and Maps. This also is dependent on the photo pixel density.
 
 ## Export Location
 
