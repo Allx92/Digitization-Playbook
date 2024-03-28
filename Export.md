@@ -36,7 +36,7 @@
 Find the exported image by following these steps:
 
 1. Open 'FINDER', navigate to the 'Two face app'.
-2. In 'Pictures', find your project name and go to 'Output'.
+2. Navigate to 'Pictures' and find your project name and go to 'Output'.
 3. Drag and drop the image file to the final Export File.
 4. Finally, move 'FinalExport' to its respective Storage.
 
