@@ -19,7 +19,7 @@
 
 ## Export Tool
 
-- Go to the Export tool and create a new export recipe by clicking on the **'+'**.
+- Go to the Export tool and create a new export recipe by clicking on the **'+'** symbol.
 - Ensure 'Adobe RGB No loss' is checked.
 - Select the recipe you are using and make sure it is highlighted in **orange**. 
 
