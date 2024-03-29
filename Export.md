@@ -41,10 +41,10 @@ This section will outline the steps for exporting and renaming the processed obj
 
 Find the exported image by following these steps:
 
-1. Open 'FINDER', navigate to the 'Two face app'.
-2. Navigate to 'Pictures' and find your project name and go to 'Output'.
+1. Navigate to 'FINDER' which is the second tile using `Command+tab` shortcut key.
+2. Navigate to 'Pictures' and find your project name and select 'Output'.
 3. Drag and drop the image file to the final Export File.
-4. Finally, move 'FinalExport' to its respective Storage.
+4. Move 'FinalExport' to its respective Storage.
 
 
 
