@@ -37,6 +37,7 @@ Live View provides a real-time display of what the camera lens is capturing, all
 4. **Zoom in:** Using the zoom controls or keyboard shortcuts, zoom in to the 600 mark on the target until the 5 resolution lines are visible.
 5. **Capture:** Press caputure to confrim adjustments.
 
+<img src="https://github.com/Bluee21/Digitization-Playbook/blob/main/images/PreFlight_005.png" alt="resolution lines" width="550" height="650">
 
 4. ## LCC board (white board) 
 The LCC board is used along with the software to correct lens cast, which is produced by uneven lighting across the frame. The LCC board is placed parallel above the glass plate matching the angle of the object being photograph. 
