@@ -38,15 +38,16 @@ Live View provides a real-time display of what the camera lens is capturing, all
 
 
 4. ## LCC board (white board) 
-The LCC board is used along with the software to correct lens cast, which is produced by uneven lighting across the frame. The LCC board is placed parallel above the glass plate matching the angle of the object being photograph. The LCC board must fill the frame before capturing. 
+The LCC board is used along with the software to correct lens cast, which is produced by uneven lighting across the frame. The LCC board is placed parallel above the glass plate matching the angle of the object being photograph. 
 
-1. **Prepare LCC board:** Get the LCC board. 
-2. **Position Board:** Place the board parallel to the glass, and ensure to cover the frame. 
-3. **Capture:** Press Capture in the toolbar or use the keyboard shortcut. 
-4. **Add Colour Readout:** Go to the cursor toolbar and select **Add Color Readout**.Ensure the *Color Readout* in the middle of the target reads **60** or **70**. 
-5. **Check Readouts:** Make sure readouts in all four corners match the middle.
-6. **Adjust Shutter Speed:** If readouts exceeds 70 make the necessary changes adjustments to the shutter speed.
-7. **Create LCC:** In the LCC panel, select *Create LCC* and capture the target.  
+The LCC board must fill the frame before capturing. 
+1. **Prepare LCC board:** Get the LCC board.
+3. **Position Board:** Place the board parallel to the glass, and ensure the LCC board covers the Live View frame. 
+4. **Capture:** Press Capture in the toolbar or use the keyboard shortcut. 
+5. **Add Colour Readout:** Go to the cursor toolbar and select **Add Color Readout**.Ensure the *Color Readout* in the middle of the target reads **60** or **70**. 
+6. **Check Readouts:** Make sure readouts in all four corners match the middle.
+7. **Adjust Shutter Speed:** If readouts exceeds 70 make the necessary changes adjustments to the shutter speed.
+8. **Create LCC:** In the LCC panel, select *Create LCC* and capture the target.  
 
 ## White balance
 This process adjusts the colour of the photos captured to accurately represent how they appear in real life under the LCC lighting conditions. Ensuring whites appear truly white rather than a tinted colour.
