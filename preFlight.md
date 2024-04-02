@@ -43,12 +43,12 @@ The LCC board is used along with the software to correct lens cast, which is pro
 
 The LCC board must fill the frame before capturing. 
 1. **Prepare LCC board:** Get the LCC board.
-3. **Position Board:** Place the board parallel to the glass, and ensure the LCC board covers the Live View frame. 
-4. **Capture:** Press Capture in the toolbar or use the keyboard shortcut. 
-5. **Add Colour Readout:** Go to the cursor toolbar and select **Add Color Readout**.Ensure the *Color Readout* in the middle of the target reads **60** or **70**. 
-6. **Check Readouts:** Make sure readouts in all four corners match the middle.
-7. **Adjust Shutter Speed:** If readouts exceeds 70 make the necessary changes adjustments to the shutter speed.
-8. **Create LCC:** In the LCC panel, select *Create LCC* and capture the target.  
+2. **Position Board:** Place the board parallel to the glass, and ensure the LCC board covers the Live View frame. 
+3. **Capture:** Press Capture in the toolbar or use the keyboard shortcut. 
+4. **Add Colour Readout:** Go to the cursor toolbar and select **Add Color Readout**.Ensure the *Color Readout* in the middle of the target reads **60** or **70**. 
+5. **Check Readouts:** Make sure readouts in all four corners match the middle.
+6. **Adjust Shutter Speed:** If readouts exceeds 70 make the necessary changes adjustments to the shutter speed.
+7. **Create LCC:** In the LCC panel, select *Create LCC* and capture the target.  
 
 ## White balance
 This process adjusts the colour of the photos captured to accurately represent how they appear in real life under the LCC lighting conditions. Ensuring whites appear truly white rather than a tinted colour.
@@ -62,6 +62,6 @@ Exposure adjustmenst are based on the amount of light that reaches the camera se
 1. **Check Readouts:** Ensure readouts are within the expected range (e.g., close to the colour patch value, ideally 70 but 69.0 is acceptable)
 2. **Add Readouts:** In the cursor tools section, select the *color editor tool*, and from the dropdown list, select *Add Color Readout* to add readouts to first 6 patches (Patch 70 - 95)
   > Ensure that Readouts are placed in the middle of the color patch for an accurate Readout. 
-4. **Adjust Shutter Speed:** Navigate to the Exposure tool and change shutter speed to match the correct values, typically adjusting to 1/20 or 1/5 (trigger speed) 
-5. **Coordinate Exposure Settings:** One system does the white balance first, providing the second operator with their setting values. Ensure communication between operators for consistent setting values. 
+3. **Adjust Shutter Speed:** Navigate to the Exposure tool and change shutter speed to match the correct values, typically adjusting to 1/20 or 1/5 (trigger speed) 
+4. **Coordinate Exposure Settings:** One system does the white balance first, providing the second operator with their setting values. Ensure communication between operators for consistent setting values. 
 
