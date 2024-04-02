@@ -25,7 +25,7 @@ This section is dedicated to getting your systems ready and working from a sleep
 
 + Unzip booth from the left side
   The zipper is located at the bottom in the centre.
-     - Figure 1 ![Booth zipped Pointing up](https://github.com/BearlyJohno/Digitization-Playbook/assets/159266964/e9b88ed6-9f19-4f8f-af9c-7baecccccfab)
+     - Figure 1 <img src="https://github.com/BearlyJohno/Digitization-Playbook/assets/159266964/e9b88ed6-9f19-4f8f-af9c-7baecccccfab" alt="" width ="50" height="60>
 
 
 + Turn on down lights from the power supply located in the rear
