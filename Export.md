@@ -22,11 +22,11 @@ Batch rename refers to the feature that allows users to rename multiple files at
     -(Alternatively) 'Right click' on empty space of scanned image and select `Batch Rename`
  3. Change `Job Name` to an appropriate name based on current project.
 
- 4. **Format**: Ensure 'Job Name_Current Date (MMM dd yyyy)' format is adhered to and change the Digit Counter to '4' ???
+ 4. **Format**: Ensure 'Job Name_Current Date_(MMM dd yyyy)' format is adhered to and change the Digit Counter to '4'. This is mostly a default value.
 
  5. Cick on '...' located to the top right of window and select `Set Rename Counter`
 6. Set value to **2** since scanned images will increase in this manner.
- > **NOTE:**  The user of left workstation  will use page 1,  while the user of the right workstation will use page 2. The user of workstation 1 scans images in an odd number order (1,3,5) while the user of workstation 2 scans the images in an even number order (2,4,6).
+ > **NOTE:**  The user of left workstation  will  ages in an even number order (2,4,6).
  
  7. Click on '...' to the top right and select  `Set Rename Counter Increment`: This should be set to **2** as the increments increase in this manner.
  
@@ -46,7 +46,7 @@ Export Recipes is a feature that enables users to save specific sets of export s
 
 ## 4.3 Export Format & Size
 
-The Export format and size functionality in Image Scanning software refers to the customization of the final output file format and size. Users can choose between various options, depending on what their final use of the image. For example, **JPEGs** might be selected for their smaller file size, whereas **TIFF** and **PNG** formatis may be more suitable for high resolution needs.The size of the exported image can be altered according to user preference, factoring in considerations such as storage capacity and the requirements of the platform where the image will be used. See below:
+The Export format and size functionality in Image Scanning software refers to the customization of the final output file format and size. Users can choose between various options, depending on what their final use of the image. For example, **JPEGs** might be selected for their smaller file size, whereas **TIFF** and **PNG** format may be more suitable for high resolution needs.The size of the exported image can be altered according to user preference, factoring in considerations such as storage capacity and the requirements of the platform where the image will be used. See below:
 
 - Change bit depth to **16 bit** as this is the default setting
 - Set the resolution: This can be either **400 PPI** for larger format material or **600 PPI** (Books and Maps). This also is dependent on the photo pixel density.
@@ -62,7 +62,7 @@ Find the exported image by following these steps:
 
 1. Navigate to 'FINDER' which is the second tile using `Command+tab` shortcut key.
 2. Navigate to 'Pictures' and find your project name and select 'Output'.
-3. Drag and drop the image file/s to the FINAL_Export File.
+3. Drag and drop the image file/s to the 'FINAL_Export File'.
 4. Move 'FINAL_Export' file  to its respective Storage.
 
 
