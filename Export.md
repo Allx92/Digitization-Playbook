@@ -12,7 +12,6 @@ This section will outline the steps for exporting and renaming the processed obj
 
 ## 4.1 Batch Rename 
 
-![alt text]( "")
 
 Batch rename refers to the feature that allows users to rename multiple files at once. This function saves the user significant amount of time, especially when dealing with a large number of files. The user can choose specific naming conventions and apply them instantly across a set of files. The formats can be text, numeric or alphanumeric based on the the user's preference. The function essentially uses pattern recognition to rename files in a structured and organized manner.
 
