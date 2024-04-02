@@ -1,4 +1,4 @@
-## Terms associated with Digitization Process (Pebding List)
+## Terms associated with Digitization Process 
 
 **AF**-
 
