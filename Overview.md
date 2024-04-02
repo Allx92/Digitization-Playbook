@@ -1,23 +1,17 @@
-# Digitization Team: General Overview for Expected Workflow
+# General Workflow for Digitizing an Object
 
-This document speaks to the general workflow digitizing an object.
+This document provides a comprehensive overview of the digitization workflow, detailing the essential steps involved in capturing and processing images of physical objects to create high-quality digital representations.
 
-This workflow can be subdivided into four main parts.
-1. Morning
-2. Pre Flight
-3. Digitizing Process
-4. Export
+## Subdivisions of the Workflow:
 
-## Morning
-This section outlines the essential steps the Digitization Team members should follow each morning to prepare their workspace and set up the capture software. 
+## [Morning](Morning.md)
+This section outlines the essential steps the Digitization Team members must follow each morning to prepare their workspace and configure the Capture One software. Ensuring an environment that is favorable for efficient and accurate digitization. 
 
-## Pre Flight
-This section outlines calibrating the camera and capture settings before actual image capture begins. It ensures consistent color reproduction, proper focus, and optimal lighting conditions for capturing high-quality digital images.
-(`**This is my assumption for the purpose of this section in general based on the bullet points. Must confirm what should go here**`)
+## [PreFlight](preFlight.md)
+The PreFlight section outlines calibrating the camera and configuring capture settings before actual image capture begins. It aims to achieve consistent color reproduction, precise focus, and optimal lighting conditions for capturing high-quality digital images.
 
-## Digitizing Process
-This section outlines the steps involved in capturing images of the physical object (`**mentioned book in list, confirm if other objects will be scanned**`). It involves careful positioning of the object, capturing high-quality images of each page, and then cropping and processing the images to prepare them for further use.
-(`**This is my assumption for the purpose of this section in general based on the bullet points. Must confirm what should go here**`)
+## [Digitizing Process](digitizingProcess.md)
+This section outlines the steps involved in capturing images of the physical object. It involves careful positioning of the object, systematic capturing of each page, and cropping and processing of the images to prepare them for further use. This section emphasizes the importance of attention to detail in capturing and processing images to ensure the highest quality.
 
-## Export
-This section outlines the steps for exporting and renaming the processed object (book page) images. It ensures consistent naming, high-quality export format, and organized storage of the digitized book page images.
+## [Export](Export.md)
+The Export section outlines the steps for exporting and renaming the processed object images. It ensures consistent naming conventions, selection of high-quality export formats, and organized storage to allow for easy retrieval of the digitized images.
