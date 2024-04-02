@@ -5,7 +5,7 @@ Before starting the capture process, the preflight workflow ensures that the cam
 ## Base characteristics
 The base characteristics are how the system is supposed to be configured at the start of the preflight.
 
-![Base Characteristics](https://github.com/Bluee21/Digitization-Playbook/blob/main/images/PreFlight_001.png)
+<img src="https://github.com/Bluee21/Digitization-Playbook/blob/main/images/PreFlight_001.png" alt="Base Characteristics" width="550" height="650">
 
 1. To being, click on the **capture button** under the preflight tool tab, located in the Camera settings.
 2. **Base Characteristics:**
@@ -15,7 +15,8 @@ The base characteristics are how the system is supposed to be configured at the 
 
 3. **System Check:** Click on the **system check** icon in the left tool tab panel to set the *Sharpening* and *Noise Reduction*.
 
-![System Check](https://github.com/Bluee21/Digitization-Playbook/blob/main/images/PreFlight_002.png)
+<img src="https://github.com/Bluee21/Digitization-Playbook/blob/main/images/PreFlight_002.png" alt="System Check" width="550" height="650">
+
 
 **Sharpening:** Ensure *Amount* is set to **90** and Radius is set to **0.8**
 **Noise Reduction:** In the panel, *Details* is set to **50** and Color is set to **40**.
@@ -25,14 +26,14 @@ Live View provides a real-time display of what the camera lens is capturing, all
 
 1. To enter **Live View** mode click on the **Live View button** under the preflight tool tab.
 
-![Live View](https://github.com/Bluee21/Digitization-Playbook/blob/main/images/PreFlight_003.png)
+<img src="https://github.com/Bluee21/Digitization-Playbook/blob/main/images/PreFlight_003.png" alt="Live View" width="550" height="650">
 
 2. **Set Camera Resolution:** Under the **Camera Focus** panel, set camera two Resolution to 600-PPI.
 3. **Auto-focus (AF):** In the same panel, select *AF* to allow the software to automtically adjust the camera len's focus based on the selected focus point. Drag the prompt to target to lock focus, if necessary.
 
-![Live View](https://github.com/Bluee21/Digitization-Playbook/blob/main/images/PreFlight_004.png)
+<img src="https://github.com/Bluee21/Digitization-Playbook/blob/main/images/PreFlight_004.png" alt="Auto-Focus" width="550" height="650">
 
-3. **Capture:** Use command K, the window key or the hand pedal to capture the target.
+3. **Capture:** Use command + K, the window key or the hand pedal to capture the target.
 4. **Zoom in:** Using the zoom controls or keyboard shortcuts, zoom in to the 600 mark on the target until the 5 resolution lines are visible.
 5. **Capture:** Press caputure to confrim adjustments.
 
