@@ -2,7 +2,7 @@
 
 **AF**- Auto Focus is a function that automatically adjusts the camera lens to the correct object distance for a sharp image. 
 
-**F-**Aperture refers to the amount of light entering the camera lens upon capturing an image.
+**F**Aperture refers to the amount of light entering the camera lens upon capturing an image.
 
 **DPI-** Dots Per Inch refers to the number of ink droplets will produce while printing an image. The more dots per inch the more detailed the image.
 
