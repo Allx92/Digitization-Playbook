@@ -13,8 +13,6 @@ The base characteristics are how the system is supposed to be configured at the 
 **LCC profile:** In the same panel, check the *LCC Profile* is set to **Phase One iXH 150MP Flat Art LED DTPortion**.
 **Curve:** In the same panel, also check that *Curve* is set to **Linear Scientific**.
 
-3. **System Check:** Click on the **system check** icon in the left tool tab panel to set the *Sharpening* and *Noise Reduction*.
-
 <img src="https://github.com/Bluee21/Digitization-Playbook/blob/main/images/PreFlight_002.png" alt="System Check" width="550" height="650">
 
 
