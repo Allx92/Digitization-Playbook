@@ -11,10 +11,8 @@ This segment guides you through configuring the equipment for accurate image cap
 - Add two small targets next to the object to help with alignment and calibration while capturing the image.
 - Use the left foot pedal and cradle handle to stablize the cradle glass.
 - Raise the cradle with joy stick by pushing the joystick forward until it meets the glass **gently**.
-
-  > Right to raise
-  > Left to lower
-  > Joystick to move cradle 
+ > [!Note]
+> The right foot pedal raises the cradle glass, the left foot pedal lowers the cradle glass and the joystick moves the cradle.
 
 2. **Image Capture:**
 - Capture the image, then **gently** lower the cradle to release the pressure.
