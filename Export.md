@@ -12,6 +12,8 @@ This section will outline the steps for exporting and renaming the processed obj
 
 ## 4.1 Batch Rename 
 
+<img src="https://github.com/Allx92/Digitization-Playbook/blob/main/images/Process_Images/Batch%20Rename%20.png" alt="Girl in a jacket" style="width:500px;height:600px;">
+
 
 Batch rename refers to the feature that allows users to rename multiple files at once. This function saves the user significant amount of time, especially when dealing with a large number of files. The user can choose specific naming conventions and apply them instantly across a set of files. The formats can be text, numeric or alphanumeric based on the the user's preference. The function essentially uses pattern recognition to rename files in a structured and organized manner.
 
@@ -36,6 +38,8 @@ Batch rename refers to the feature that allows users to rename multiple files at
 
 ## 4.2 Export Recipes
 
+<img src="https://github.com/Allx92/Digitization-Playbook/blob/main/images/Process_Images/Export%20Recipes.png" alt="Girl in a jacket" style="width:500px;height:600px;">
+
 Export Recipes is a feature that enables users to save specific sets of export settings. This tool can be particularly useful for individuals who frequently reuse the same settings such as color, contrast, resolution and file type. Saved export recipes allow for quicker and more efficient image proecesses, eliminating the need to manually adjust settings each time a scan is performed. Users can create multiple different export recipes depending on the scenarios and reuse them as required. Below highlights how a user may go about this:
 
 - Navigate to the export tool icon located at the top of the tool pane on the left ().
@@ -46,12 +50,16 @@ Export Recipes is a feature that enables users to save specific sets of export s
 
 ## 4.3 Export Format & Size
 
+<img src="" alt="Girl in a jacket" style="width:500px;height:600px;">
+
 The Export format and size functionality in Image Scanning software refers to the customization of the final output file format and size. Users can choose between various options, depending on what their final use of the image. For example, **JPEGs** might be selected for their smaller file size, whereas **TIFF** and **PNG** format may be more suitable for high resolution needs.The size of the exported image can be altered according to user preference, factoring in considerations such as storage capacity and the requirements of the platform where the image will be used. See below:
 
 - Change bit depth to **16 bit** as this is the default setting
 - Set the resolution: This can be either **400 PPI** for larger format material or **600 PPI** (Books and Maps). This also is dependent on the photo pixel density.
 
 ## 4.4 Export Location
+
+<img src="" style="width:500px;height:600px;">
 
 The Export Location feature allows users to select the destination where the preocessed files will be saved post-scanning. The location can be a specific folder on the local system or even cloud based storage service. This precise control over file organization helps in efficient storage and easier access of the scanned images, Users can save different types of scans to different locations based on their workflow or departmental needs
 
