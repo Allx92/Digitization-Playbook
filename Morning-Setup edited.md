@@ -26,42 +26,41 @@ This section is dedicated to getting your systems ready and working from a sleep
 
 + Unzip booth from the left side
   The zipper is located at the bottom in the centre.
-     - Figure 1 ![Booth zipped Pointing up](https://github.com/BearlyJohno/Digitization-Playbook/assets/159266964/e9b88ed6-9f19-4f8f-af9c-7baecccccfab)
+     - Figure 1
+ <img src="https://github.com/Allx92/Digitization-Playbook/blob/main/images/Booth%20zipped%20Pointing%20up.png" width ="500" height="500">
 
 
 + Turn on down lights from the power supply located in the rear
 
-![LED Lights Power Supply ](https://github.com/BearlyJohno/Digitization-Playbook/assets/159266964/b1a531b8-948f-48cb-aacf-6b732b51895c)
+<img src="https://github.com/Allx92/Digitization-Playbook/blob/main/images/LED%20Lights%20Power%20Supply%20.png" width ="1000" height="500">
 
 + Power on workstation from the rear 
 
-![Work Station Power Button](https://github.com/BearlyJohno/Digitization-Playbook/assets/159266964/cf252ca4-f4e6-410d-916a-0eaac741f682)
-
+<img src="https://github.com/Allx92/Digitization-Playbook/blob/main/images/Work%20Station%20Power%20Button.png" width ="500" height= "500">
 + Re-zip the booth
 
-![Both Unzipped pointing down](https://github.com/BearlyJohno/Digitization-Playbook/assets/159266964/bf33cc61-fc34-479a-b514-c1072af4db27)
+<img src="https://github.com/Allx92/Digitization-Playbook/blob/main/images/Both%20Unzipped%20pointing%20down.png" width ="500" height= "500">
 
  Please ensure that it returns to the state that it looks like before you unzipped it. see figure 1 
 
 + Power on camera
    By plugging in the loose cable and ensuring the red lines are aligned with one another
 
-   ![Camera Power Cable UNPLUGGED](https://github.com/BearlyJohno/Digitization-Playbook/assets/159266964/54ca4296-90db-45ae-b549-335c7f4dae8f)
-
+<img src="https://github.com/Allx92/Digitization-Playbook/blob/main/images/Camera%20Power%20Cable%20UNPLUGGED.png" width ="300" height="300">
 
 ## It should look like this
 
-<img width="928" alt="Camera Power Cable In" src="https://github.com/BearlyJohno/Digitization-Playbook/assets/159266964/5fc2b432-4c48-4fcf-813d-86e7f3d6e354">
+<img src="https://github.com/Allx92/Digitization-Playbook/blob/main/images/Camera%20Power%20Cable%20In.png" width ="300" height="300">
 
 + Remove the lens caps Beware of the glass
  
 + Power on monitors  Switch on bottom near to power cable
 
-  ![Monitor Power Cable](https://github.com/BearlyJohno/Digitization-Playbook/assets/159266964/dec92b59-f2dd-4d9e-93e3-87b47a907014)
+<img src="https://github.com/Allx92/Digitization-Playbook/blob/main/images/Monitor%20Power%20Cable.png" width ="300" height="300">
 
 Check to see LED’s on the monitor are illuminated
   
-  ![Monitor Lights](https://github.com/BearlyJohno/Digitization-Playbook/assets/159266964/30c09c3b-786d-4a1a-8a77-8ca015331aa5)
+<img src="https://github.com/Allx92/Digitization-Playbook/blob/main/images/Monitor%20Lights.png" width ="300" height="300">
 
 ### Starting Your Workday
 + Enter password for workstation
@@ -83,8 +82,7 @@ Check to see LED’s on the monitor are illuminated
 
 - **Base Characteristics Mode:** Photography
 - **ICC Profile:** Phase 1
-- **Camera:** iXH 150 MP Flat ARt
-- **Reproduction:** LED `DTPortion` 
+- **Camera:** iXH 150 MP Flat ARt LED `DTPortion`
 - **Curve:** Linear Scientific
 
 **Sharpening and Noise Reduction:**
