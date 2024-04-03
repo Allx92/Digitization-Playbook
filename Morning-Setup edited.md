@@ -9,9 +9,10 @@
 + Software Setup
 
 ## Securing Your Personal Items
-Always remember to enter the building on time, at least 10 minutes before your shift starts.
 
-Entering any workspaces with personal items is forbidden, when you enter the building and check in with security then deposit and secure your; bags, cellphones or any other electronic devices. NO Liquids are to be taken into the workspace and should also be left at the bag depot.
+It is best practice that the team arrives at least 10 minutes before your shift starts.
+
+Entering the  workspaces with personal items is forbidden, when you enter the building and check in with security then deposit and secure your; bags, cellphones or any other electronic devices. NO Liquids are to be taken into the workspace and should also be left at the bag depot.
 
 Please remember to remove and secure any personal jewelry that may be worn on your fingers or wrists, this includes watches as well.
 
