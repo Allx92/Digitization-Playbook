@@ -3,14 +3,15 @@ This section aims to provide insight and guidance into the process of digtizing 
 
 ##
 
+## Steps to capture a target
 
 
-Remove target tray
-Adjust transmissive carrier to size of transmissive items
-Carefully apply transmissive items in transmissive carrier 
-Open live view to make sure that items are placed in-between guidelines with top of image at the bottom of the carrier 
-Close side flaps to eliminate extra light from sides capture
-Repeat steps until all items are captured 
++ Remove target tray
++ Adjust transmissive carrier to size of transmissive items
++ Carefully apply transmissive items in transmissive carrier 
++ Open live view to make sure that items are placed in-between guidelines with top of image at the bottom of the carrier 
++ Close side flaps to eliminate extra light from sides capture
++ Repeat steps until all items are captured 
 
 ## Production Settings
 This section covers the adjustments needed to prepare the digitized images for later use, making it easy to have them available for archiving.
