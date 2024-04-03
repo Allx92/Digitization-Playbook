@@ -44,11 +44,20 @@ The LCC board is used along with the software to correct lens cast, which is pro
 
 The LCC board must fill the frame before capturing. 
 1. **Prepare LCC board:** Get the LCC board.
-2. **Position Board:** Place the board parallel to the glass, and ensure the LCC board covers the Live View frame. 
-3. **Capture:** Press Capture in the toolbar or use the keyboard shortcut. 
-4. **Add Colour Readout:** Go to the cursor toolbar and select **Add Color Readout**.Ensure the *Color Readout* in the middle of the target reads **60** or **70**. 
-5. **Check Readouts:** Make sure readouts in all four corners match the middle.
+    
+<img src="https://github.com/Bluee21/Digitization-Playbook/blob/main/images/PreFlight_006.png" alt="LCC board" width="550" height="650">
+
+2. **Position Board:** Place the board parallel to the glass, and ensure the LCC board covers the Live View frame.
+3. **Capture:** Press Capture in the toolbar or use the keyboard shortcut.
+   
+<img src="https://github.com/Bluee21/Digitization-Playbook/blob/main/images/PreFlight_007.png" alt="Color Readout" width="550" height="650">
+4. **Add Colour Readout:** Go to the cursor toolbar and select **Add Color Readout**. Add the *Color Readouts* to the four corners and middle of the LCC board, ensure the *Color Readout* in the middle of the target reads **60** or **70**.
+
+<img src="https://github.com/Bluee21/Digitization-Playbook/blob/main/images/PreFlight_008.png" alt="Color Readout" width="550" height="650">
+5. **Check Readouts:** Make sure *Readouts* in all four corners match the middle.
 6. **Adjust Shutter Speed:** If readouts exceeds 70 make the necessary changes adjustments to the shutter speed.
+   
+<img src="https://github.com/Bluee21/Digitization-Playbook/blob/main/images/PreFlight_009.png" alt="Color Readout" width="550" height="650">
 7. **Create LCC:** In the LCC panel, select *Create LCC* and capture the target.  
 
 ## White balance
