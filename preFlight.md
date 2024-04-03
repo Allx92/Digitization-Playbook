@@ -51,9 +51,11 @@ The LCC board must fill the frame before capturing.
 3. **Capture:** Press Capture in the toolbar or use the keyboard shortcut.
    
 <img src="https://github.com/Bluee21/Digitization-Playbook/blob/main/images/PreFlight_007.png" alt="Color Readout" width="250" height="350">
+
 4. **Add Colour Readout:** Go to the cursor toolbar and select **Add Color Readout**. Add the *Color Readouts* to the four corners and middle of the LCC board, ensure the *Color Readout* in the middle of the target reads **60** or **70**.
 
 <img src="https://github.com/Bluee21/Digitization-Playbook/blob/main/images/PreFlight_008.png" alt="Color Readout" width="550" height="650">
+
 5. **Check Readouts:** Make sure *Readouts* in all four corners match the middle.
 6. **Adjust Shutter Speed:** If readouts exceeds 70 make the necessary changes adjustments to the shutter speed.
    
@@ -71,7 +73,7 @@ Exposure adjustmenst are based on the amount of light that reaches the camera se
 
 1. **Check Readouts:** Ensure readouts are within the expected range (e.g., close to the colour patch value, ideally 70 but 69.0 is acceptable)
 2. **Add Readouts:** In the cursor tools section, select the *color editor tool*, and from the dropdown list, select *Add Color Readout* to add readouts to first 6 patches (Patch 70 - 95)
-   <img src="https://github.com/Bluee21/Digitization-Playbook/blob/main/images/PreFlight_010.png" alt="Color Readout" width="550" height="650">
+   <img src="https://github.com/Bluee21/Digitization-Playbook/blob/main/images/PreFlight_010.png" alt="Color Readout" width="550" height="150">
   > [!Note]
 > Ensure that Readouts are placed in the middle of the color patch for an accurate Readout. 
 3. **Adjust Shutter Speed:** Navigate to the Exposure tool and change shutter speed to match the correct values, typically adjusting to 1/20 or 1/5 (trigger speed) 
