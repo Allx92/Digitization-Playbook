@@ -1,0 +1,77 @@
+site_name: Digitizing Documentation
+nav:
+  - Home: index.md
+  - User Guide:
+    - Preliminary Setup: 
+      - General: General/morning.md
+      - dt BC100: dt_BC100/morning.md
+      - dt Flat Bed: dt_FlatBed/morning.md
+    - Pre-Flight:
+      - General: General/preflight.md
+      - dt BC100: dt_BC100/preflight.md
+      - dt Flat Bed: dt_FlatBed/preflight.md
+    - Process:
+      - General: General/digiproc.md
+      - dt BC100: dt_BC100/digiproc.md
+      - dt Flat Bed: dt_FlatBed/digiproc.md
+    - Export:
+      - General: General/export.md
+      - dt BC100: dt_BC100/export.md
+      - dt Flat Bed: dt_FlatBed/export.md
+    - Troubleshooting: 
+      - General: Troubleshoot/troubleshoot.md
+      - dt BC100: Troubleshoot/troubleshoot.md
+      - dt Flat Bed: Troubleshoot/troubleshoot.md
+  - About:
+    - Process: About/process.md
+    - Glossary: About/glossary.md
+    - Admin Setup: About/admin_setup.md
+theme:
+  name: material
+  palette:
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+      primary: blue
+      accent: green
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+      primary: indigo
+      accent: teal
+  font:
+    # Font for text
+    text: Roboto
+    # Font for code
+    code: Roboto Mono
+  features:
+    # Add navigation tabs, not shown on mobile
+    - navigation.tabs
+    - navigation.sections
+    - navigation.path
+    - navigation.prune
+    - navigation.indexes
+    - toc.follow
+    - toc.integrate
+    - search.suggest
+    - search.highlight
+  plugins:
+    - search
+    - optimize
+    - privacy:
+      # Don't use settings locally
+      enabled: !ENV [CI, false]
+      # Have external links open in a new tab
+      links_attr_map:
+        target: _blank
+  highlightjs: true
+  hljs_style: github
+  hljs_languages:
+    - yaml
+    - python
