@@ -64,7 +64,7 @@ This process adjusts the colour of the photos captured to accurately represent h
   
 1. **Delete Readouts:** Right click on one of the readouts and select delete all to remove.
    
-<img src="https://github.com/Bluee21/Digitization-Playbook/blob/main/images/WhiteBalance.png" alt="White Balance" width="550" height="250">
+<img src="https://github.com/Bluee21/Digitization-Playbook/blob/main/images/WhiteBalance.png" alt="White Balance" width="450" height="150">
 
 2. **Add white balance:** Under *White Balance* in the left pane select the picker (eyedropper) to apply the **White Balance**.
 3. **Zoom In:** Using the zoom controls zoom in on the target to colour patch **70** (value changes based on target) and click on it.
@@ -76,10 +76,10 @@ Exposure adjustmenst are based on the amount of light that reaches the camera se
 1. **Check Readouts:** Ensure readouts are within the expected range (e.g., close to the colour patch value, ideally 70 but 69.0 is acceptable)
 2. **Add Readouts:** In the cursor tools section, select the *color editor tool*, and from the dropdown list, select *Add Color Readout* to add readouts to first 6 patches (Patch 70 - 95)
    
-<img src="https://github.com/Bluee21/Digitization-Playbook/blob/main/images/BeforeReadouts.png" alt="Before Readouts" width="650" height="250">
+<img src="https://github.com/Bluee21/Digitization-Playbook/blob/main/images/BeforeReadouts.png" alt="Before Readouts" width="650" height="150">
    Before Color Readouts
    
-<img src="https://github.com/Bluee21/Digitization-Playbook/blob/main/images/Readouts2.png" alt="Readouts" width="650" height="250">
+<img src="https://github.com/Bluee21/Digitization-Playbook/blob/main/images/Readouts2.png" alt="Readouts" width="650" height="150">
 After Color Readouts
 
 
