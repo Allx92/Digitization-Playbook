@@ -59,8 +59,12 @@ The LCC board must fill the frame before capturing.
 ## White balance
 This process adjusts the colour of the photos captured to accurately represent how they appear in real life under the LCC lighting conditions. Ensuring whites appear truly white rather than a tinted colour.
 
-1. **Delete Readouts:** Right click on the readouts and select delete all.
-2. **Add white balance:** 
+<img src="https://github.com/Bluee21/Digitization-Playbook/blob/main/images/DeleteReadouts.png" alt="Delete readouts" width="450" height="550">
+  
+1. **Delete Readouts:** Right click on one of the readouts and select delete all to remove.
+   
+<img src="https://github.com/Bluee21/Digitization-Playbook/blob/main/images/WhiteBalance.png" alt="White Balance" width="450" height="550">
+2. **Add white balance:** Under *White Balance* in the left pane select the picker (eyedropper) to apply the **White Balance**.
 3. **Zoom In:** Using the zoom controls zoom in on the target to colour patch **70** (value changes based on target) and click on it.
 4. **Coordinate Exposure Settings:** One system does the white balance first, providing the second operator with their setting values. Ensure communication between operators for consistent setting values. 
 
@@ -69,10 +73,14 @@ Exposure adjustmenst are based on the amount of light that reaches the camera se
 
 1. **Check Readouts:** Ensure readouts are within the expected range (e.g., close to the colour patch value, ideally 70 but 69.0 is acceptable)
 2. **Add Readouts:** In the cursor tools section, select the *color editor tool*, and from the dropdown list, select *Add Color Readout* to add readouts to first 6 patches (Patch 70 - 95)
+   <img src="https://github.com/Bluee21/Digitization-Playbook/blob/main/images/BeforeReadouts.png" alt="Before Readouts" width="450" height="550">
+   Before Color Readouts
+<img src="https://github.com/Bluee21/Digitization-Playbook/blob/main/images/Readouts2.png" alt="Readouts" width="450" height="550">
+After Color Readouts
 
-**New Image!** 
   > [!Note]
-> Ensure that Readouts are placed in the middle of the color patch for an accurate Readout. 
+> Ensure that Readouts are placed in the middle of the color patch for an accurate Readout.
+<img src="https://github.com/Bluee21/Digitization-Playbook/blob/main/images/ShutterAdjustments.png" alt="Shutter adjustment" width="450" height="550">
 3. **Adjust Shutter Speed:** Navigate to the camera settings in the PreFlight tab to change the shutter speed to match the correct values, typically adjusting to 1/20 or 1/5 (trigger speed).
 4. **Capture:** Capture to save the setting adjustments as you go.  
 
