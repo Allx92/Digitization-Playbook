@@ -1,9 +1,9 @@
-# Digitizing process
+# ⚬Digitizing process⚬
 This section aims to provide insight and guidance into the process of digtizing objects, it describes the steps to capture and the method to do so.
 
 ##
 
-## Steps to capture a target
+## ⚬Steps to capture a target⚬
 
 
 + Remove target tray
@@ -13,7 +13,7 @@ This section aims to provide insight and guidance into the process of digtizing 
 + Close side flaps to eliminate extra light from sides capture
 + Repeat steps until all items are captured 
 
-## Production Settings
+## ⚬Production Settings⚬
 This section covers the adjustments needed to prepare the digitized images for later use, making it easy to have them available for archiving.
 
 1. **Enter Prodcution Tab:** Navigate to the production tab to make adjustments and prepare the images for the next steps.
