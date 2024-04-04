@@ -64,16 +64,18 @@ The LCC board must fill the frame before capturing.
 This process adjusts the colour of the photos captured to accurately represent how they appear in real life under the LCC lighting conditions. Ensuring whites appear truly white rather than a tinted colour.
 
 1. **Delete Readouts:** Right click on the readouts and select delete all.
-2. **Zoom In:** Using the zoom controls zoom in on the target to colour patch **70** (value changes based on target) and click on it. 
+2. **Zoom In:** Using the zoom controls zoom in on the target to colour patch **70** (value changes based on target) and click on it.
+3. **Coordinate Exposure Settings:** One system does the white balance first, providing the second operator with their setting values. Ensure communication between operators for consistent setting values. 
 
 ## Exposure 
 Exposure adjustmenst are based on the amount of light that reaches the camera sensor, and is determined by the shutter speed, aperture and ISO.
 
 1. **Check Readouts:** Ensure readouts are within the expected range (e.g., close to the colour patch value, ideally 70 but 69.0 is acceptable)
 2. **Add Readouts:** In the cursor tools section, select the *color editor tool*, and from the dropdown list, select *Add Color Readout* to add readouts to first 6 patches (Patch 70 - 95)
-   <img src="https://github.com/Bluee21/Digitization-Playbook/blob/main/images/PreFlight_010.png" alt="Color Readout" width="550" height="150">
+
+**New Image!** 
   > [!Note]
 > Ensure that Readouts are placed in the middle of the color patch for an accurate Readout. 
 3. **Adjust Shutter Speed:** Navigate to the Exposure tool and change shutter speed to match the correct values, typically adjusting to 1/20 or 1/5 (trigger speed) 
-4. **Coordinate Exposure Settings:** One system does the white balance first, providing the second operator with their setting values. Ensure communication between operators for consistent setting values. 
+
 
