@@ -44,7 +44,7 @@ The LCC board must fill the frame before capturing.
 2. **Position Board:** Place the board parallel to the glass, and ensure the LCC board covers the Live View frame.
 3. **Capture:** Press Capture in the toolbar or use the keyboard shortcut.
    
-<img src="https://github.com/Bluee21/Digitization-Playbook/blob/main/images/PreFlight_007.png" alt="Color Readout" width="250" height="350">
+<img src="https://github.com/Bluee21/Digitization-Playbook/blob/main/images/AddColorReadout.png" alt="Color Readout" width="250" height="350">
 
 4. **Add Colour Readout:** Go to the cursor toolbar and select **Add Color Readout**. Add the *Color Readouts* to the four corners and middle of the LCC board, ensure the *Color Readout* in the middle of the target reads **60** or **70**.
 
