@@ -1,4 +1,4 @@
-# Morning: Morning Routine and Software Setup
+# Morning Routine and Software Setup
 
 This section outlines the essential steps the Digitization Team members should follow each morning to prepare their workspace and set up the capture software, including its generic presets.
 
