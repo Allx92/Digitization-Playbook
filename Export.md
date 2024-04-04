@@ -72,7 +72,7 @@ Find the exported image by following these steps:
 3. Drag and drop the image file/s to the 'FINAL_Export File'.
 4. Move 'FINAL_Export' file  to its respective Storage.
 
-<img src="https://github.com/Allx92/Digitization-Playbook/blob/main/images/Process_Images/Output%20.png" style="width:600px;height:500px;">
+<img src="https://github.com/Allx92/Digitization-Playbook/blob/main/images/Process_Images/Output%20.png" style="width:500px;height:400px;">
 
 
 
