@@ -4,11 +4,11 @@
 ## Base characteristics
 The base characteristics are how the system is supposed to be configured at the start of the preflight.
 
-1. To being, click on the **capture button** under the preflight tool tab, located in the Camera settings.
+1. To being, click on the **capture button** under the Pre-Flight tool tab, located in the Camera settings.
 2. **Base Characteristics:**
-**Mode:** Ensure the *Mode* is set to **photography**.
-**LCC profile:** In the same panel, check the *LCC Profile* is set to **Phase One iXH 150MP Flat Art Resolution LED DTPortion**.
-**Curve:** In the same panel, also check that *Curve* is set to **Linear Scientific**.
+- **Mode:** Ensure the *Mode* is set to **photography**.
+- **LCC profile:** In the same panel, check the *LCC Profile* is set to **Phase One iXH 150MP Flat Art Resolution LED DTPortion**.
+- **Curve:** In the same panel, also check that *Curve* is set to **Linear Scientific**.
 
 3. **Transmissive Target Setup:** Place transmissive target in tray with the non-shiny side of the target facing up toward the camera. 
 
