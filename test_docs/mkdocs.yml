@@ -53,7 +53,7 @@ theme:
     code: Roboto Mono
   features:
     # Add navigation tabs, not shown on mobile
-    - navigation.tabs
+    #- navigation.tabs
     - navigation.sections
     - navigation.path
     - navigation.prune
