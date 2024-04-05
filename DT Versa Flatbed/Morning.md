@@ -1,5 +1,5 @@
 
-# DT Versa Flatbed Scanner - Morning Process
+#  Morning Process (DT Versa Flatbed Scanner) 
 
 Digitisation Team: Morning Routine Preparation
 
