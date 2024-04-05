@@ -2,44 +2,25 @@
 title: Overview
 summary: An overview of the general digitization process.
 authors:
-    - Dario Clarke
+    - Tyiesha Bryan
     - TBD
 date: 2024-04-03
 ---
 
-# D
+# General Workflow for Digitizing an Object
 
-# Welcome to the Digitization Process
+This document provides a comprehensive overview of the digitization workflow, detailing the essential steps involved in capturing and processing images of physical objects to create high-quality digital representations.
 
+## Subdivisions of the Workflow:
 
+## [Morning](General/morning.md)
+This section outlines the essential steps the Digitization Team members must follow each morning to prepare their workspace and configure the Capture One software. Ensuring an environment that is favorable for efficient and accurate digitization. 
 
+## [PreFlight](General/preflight.md)
+The PreFlight section outlines calibrating the camera and configuring capture settings before actual image capture begins. It aims to achieve consistent color reproduction, precise focus, and optimal lighting conditions for capturing high-quality digital images.
 
+## [Digitizing Process](General/digiproc.md)
+This section outlines the steps involved in capturing images of the physical object. It involves careful positioning of the object, systematic capturing of each page, and cropping and processing of the images to prepare them for further use. This section emphasizes the importance of attention to detail in capturing and processing images to ensure the highest quality.
 
-
-
-
-
-
-
-
-
-
-
-
-# Other Commands
-
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
-
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+## [Export](General/export.md)
+The Export section outlines the steps for exporting and renaming the processed object images. It ensures consistent naming conventions, selection of high-quality export formats, and organized storage to allow for easy retrieval of the digitized images.

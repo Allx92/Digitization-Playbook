@@ -7,4 +7,4 @@ authors:
 date: 2024-04-03
 ---
 
-# D
+Please refer to the general structure.
