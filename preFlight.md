@@ -1,37 +1,36 @@
 # Pre-Flight Workflow (BC 100)
 
-Before starting the capture process, the preflight workflow ensures that the camera settings are configured properly, which includes camera resolution, focus, LCC, white balance, and exposure, so that images are an accurate reproduction of the original object.
+Before starting the capture process, the Pre-Flight workflow ensures that the camera settings are configured properly, which includes camera resolution, focus, LCC, white balance, and exposure, so that images are an accurate reproduction of the original object.
 
 ## Base characteristics
-The base characteristics are how the system is supposed to be configured at the start of the preflight.
+The base characteristics are how the system is supposed to be configured at the start of the Pre-Flight.
 
 <img src="https://github.com/Bluee21/Digitization-Playbook/blob/main/images/PreFlight_001.png" alt="Base Characteristics" width="550" height="650">
 
-1. To begin, click on the **capture button** under the preflight tool tab, located in the Camera settings.
+1. To begin, click on the **capture button** under the Pre-Flight tool tab, located in the Camera settings.
 2. **Base Characteristics:**
 **Mode:** Ensure the *Mode* is set to **photography**.
 **ICC profile:** In the same panel, check the *LCC Profile* is set to **Phase One iXH 150MP Flat Art LED DTPortion**.
 **Curve:** In the same panel, also check that *Curve* is set to **Linear Scientific**.
 
-<img src="https://github.com/Bluee21/Digitization-Playbook/blob/main/images/PreFlight_002.png" alt="System Check" width="550" height="650">
-
 ## Live View 
 Live View provides a real-time display of what the camera lens is capturing, allowing for adjustments to composition and sharpness. This ensures that the final image meets desired standards before capture.
 
-1. To enter **Live View** mode click on the **Live View button** under the preflight tool tab.
+1. To enter **Live View** mode click on the **Live View button** under the Pre-Flight tool tab.
 
 <img src="https://github.com/Bluee21/Digitization-Playbook/blob/main/images/PreFlight_003.png" alt="Live View" width="550" height="650">
 
 2. **Set Camera Resolution:** Under the **Camera Focus** panel, set the camera *Resolution* to *600-PPI*.
-3. **Auto-focus (AF):** In the same panel, select *AF* to allow the software to automtically adjust the camera len's focus based on the selected focus point. Drag the prompt to target to lock focus, if necessary.
+3. **Auto-focus (AF):** In the same panel, select *AF* to allow the software to automtically adjust the camera len focus based on the selected focus point. Drag the prompt to target to lock focus, if necessary.
 
 <img src="https://github.com/Bluee21/Digitization-Playbook/blob/main/images/PreFlight_004.png" alt="Auto-Focus" width="550" height="650">
 
 4. **Capture:** Use window key + K or the hand pedal to capture the target.
-5. **Zoom in:** Using the zoom controls or keyboard shortcuts, zoom in to the 600 mark on the target until the 5 resolution lines are visible.
-6. **Capture:** Press capture to confirm adjustments.
+5. **Zoom in:** Using the zoom slider or keyboard shortcuts, zoom in to the 600 mark on the target until the 5 resolution lines are visible.
 
 <img src="https://github.com/Bluee21/Digitization-Playbook/blob/main/images/PreFlight_005.png" alt="resolution lines" width="550" height="650">
+
+6. **Capture:** Press capture to confirm adjustments.
 
 ## LCC board (white board) 
 The LCC board is used along with the software to correct lens cast, which is produced by uneven lighting across the frame. The LCC board is placed parallel above the glass plate matching the angle of the object being photograph. 
