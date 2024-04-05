@@ -16,10 +16,9 @@ The base characteristics are how the system is supposed to be configured at the 
 ## Live View 
 Live View provides a real-time display of what the camera lens is capturing, allowing for adjustments to composition and sharpness. This ensures that the final image meets desired standards before capture.
 
-1. To enter **Live View** mode click on the **Live View button** under the Pre-Flight tool tab.
-
 <img src="https://github.com/Bluee21/Digitization-Playbook/blob/main/images/PreFlight_003.png" alt="Live View" width="550" height="650">
 
+1. To enter **Live View** mode click on the **Live View button** under the Pre-Flight tool tab.
 2. **Set Camera Resolution:** Under the **Camera Focus** panel, set the camera *Resolution* to *600-PPI*.
 3. **Auto-focus (AF):** In the same panel, select *AF* to allow the software to automtically adjust the camera len focus based on the selected focus point. Drag the prompt to target to lock focus, if necessary.
 
