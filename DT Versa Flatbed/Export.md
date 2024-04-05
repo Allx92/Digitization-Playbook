@@ -57,9 +57,9 @@ The Export format and size functionality in Image Scanning software refers to th
 
 ## 4.4 Export Location
 
-![alt text](https://github.com/Allx92/Digitization-Playbook/blob/main/DT%20Versa%20Flatbed/Images/Export.png)
+The Export Location feature allows users to select the destination where the preocessed files will be saved post-scanning. The location can be a specific folder on the local system or even cloud based storage service. This precise control over file organization helps in efficient storage and easier access of the scanned images, Users can save different types of scans to different locations based on their workflow.
 
-The Export Location feature allows users to select the destination where the preocessed files will be saved post-scanning. The location can be a specific folder on the local system or even cloud based storage service. This precise control over file organization helps in efficient storage and easier access of the scanned images, Users can save different types of scans to different locations based on their workflow or departmental needs
+![alt text](https://github.com/Allx92/Digitization-Playbook/blob/main/DT%20Versa%20Flatbed/Images/Export.png)
 
 - Subfolder naming: Use the following pattern 'jobname-name of item'.
 - Click **'Export'**.
