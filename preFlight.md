@@ -16,7 +16,7 @@ The base characteristics are how the system is supposed to be configured at the 
 ## Live View 
 Live View provides a real-time display of what the camera lens is capturing, allowing for adjustments to composition and sharpness. This ensures that the final image meets desired standards before capture.
 
-<img src="images/PreFlight_003.png" alt="Live View" width="550" height="650">
+<img src="images/Pre-Flight_003.png" alt="Live View" width="550" height="650">
 
 1. To enter **Live View** mode click on the **Live View button** under the Pre-Flight tool tab.
 
@@ -87,7 +87,7 @@ After Color Readouts
 
 <img src="images/ShutterAdjustments.png" alt="Shutter adjustment" width="250" height="350">
 
-3. **Adjust Shutter Speed:** Navigate to the camera settings in the PreFlight tab to change the shutter speed to match the correct values, typically adjusting to 1/20 or 1/5 (trigger speed).
+3. **Adjust Shutter Speed:** Navigate to the camera settings in the Pre-Flight tab to change the shutter speed to match the correct values, typically adjusting to 1/20 or 1/5 (trigger speed).
 4. **Capture:** Capture to save the setting adjustments as you go.  
 
 
