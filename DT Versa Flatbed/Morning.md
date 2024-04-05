@@ -54,12 +54,15 @@ Digitisation Team: Morning Routine Preparation
   * Mode: Photography
   * ICC Profile: Phase One iXH 150 Flat Art Reproduction LED DTPortion
   * Curve: Linear Scientific
+ 
 2. **Sharpening**: Set the sharpening settings to:
     * Sharpening: 90
     * Radius: 0.8
 3. **Noise Reduction**: Set the noise reduction settings to:
     * Details: 50
     * Colour: 40
+  
+![alt text](https://github.com/Allx92/Digitization-Playbook/blob/main/DT%20Versa%20Flatbed/Images/Sharpening%20%26%20Reduction%20.png)  
 
 **Next Steps**
 * Refer to the "Get Documents Librarian -> Spin Off -> Material Retrievers -> Target in Cradle" section of a separate document for instructions on retrieving and placing materials onto the scanner bed.
