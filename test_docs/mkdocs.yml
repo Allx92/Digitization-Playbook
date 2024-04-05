@@ -19,10 +19,11 @@ nav:
       - dt BC100: dt_BC100/export.md
       - dt Flat Bed: dt_FlatBed/export.md
     - Troubleshooting: 
-      - General: Troubleshoot/troubleshoot.md
+      - General: Troubleshoot/index.md
       - dt BC100: Troubleshoot/troubleshoot.md
       - dt Flat Bed: Troubleshoot/troubleshoot.md
   - About:
+    - About/index.md
     - Process: About/process.md
     - Glossary: About/glossary.md
     - Admin Setup: About/admin_setup.md
@@ -70,6 +71,13 @@ theme:
       # Have external links open in a new tab
       links_attr_map:
         target: _blank
+  markdown_extensions:
+    # Add snippets with the fornmat
+    - pymdownx.snippets:
+        auto_append:
+          - includes/abbreviations.md
+  watch:
+    - includes
   highlightjs: true
   hljs_style: github
   hljs_languages:
