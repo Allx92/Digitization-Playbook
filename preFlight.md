@@ -27,7 +27,7 @@ Live View provides a real-time display of what the camera lens is capturing, all
 4. **Capture:** Use window key + K or the hand pedal to capture the target.
 5. **Zoom in:** Using the zoom slider or keyboard shortcuts, zoom in to the 600 mark on the target until the 5 resolution lines are visible.
 
-<img src="https://github.com/Bluee21/Digitization-Playbook/blob/main/images/PreFlight_005.png" alt="resolution lines" width="550" height="650">
+<img src="https://github.com/Bluee21/Digitization-Playbook/blob/main/images/PreFlight_5ResolutionLines.png" alt="resolution lines" width="550" height="650">
 
 6. **Capture:** Press capture to confirm adjustments.
 
