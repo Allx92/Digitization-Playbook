@@ -1,4 +1,7 @@
-
+---
+search:
+  exclude: true
+---
 
 ## Installation Process
 Comprehensive details can be found at:
@@ -31,3 +34,5 @@ The following terminal commands will guide you in setting up and running `mkdocs
 ## To Do
 
 Add [`- navigation.indexes`](https://squidfunk.github.io/mkdocs-material/setup/setting-up-navigation/#section-index-pages) along with file layout to improve site flow.
+
+Add [feedback widget](https://squidfunk.github.io/mkdocs-material/setup/setting-up-site-analytics/#was-this-page-helpful) to capture any issues with documentation, but it requires a third party plugin.

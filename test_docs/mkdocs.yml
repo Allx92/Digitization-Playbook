@@ -52,13 +52,17 @@ theme:
     # Font for code
     code: Roboto Mono
   features:
-    # Add navigation tabs, not shown on mobile
+    # Add navigation tabs; not shown on mobile
     #- navigation.tabs
+    # Add top-level sections are rendered as groups in the sidebar for viewports above 1220px
     - navigation.sections
+    # A breadcrumb navigation is rendered above the title of each page,
     - navigation.path
     - navigation.prune
     - navigation.indexes
+    # The sidebar is automatically scrolled so that the active anchor is always visible
     - toc.follow
+    #  always render the toc as part of the navigation sidebar on the left
     - toc.integrate
     - search.suggest
     - search.highlight
