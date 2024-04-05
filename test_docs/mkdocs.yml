@@ -3,25 +3,25 @@ nav:
   - Home: index.md
   - User Guide:
     - Preliminary Setup: 
-      - General: General/morning.md
+      - Prelim_Setup/index.md
       - dt BC100: dt_BC100/morning.md
       - dt Flat Bed: dt_FlatBed/morning.md
     - Pre-Flight:
-      - General: General/preflight.md
+      - Pre_Flight/index.md
       - dt BC100: dt_BC100/preflight.md
       - dt Flat Bed: dt_FlatBed/preflight.md
     - Process:
-      - General: General/digiproc.md
+      - Digi_Process/index.md
       - dt BC100: dt_BC100/digiproc.md
       - dt Flat Bed: dt_FlatBed/digiproc.md
     - Export:
-      - General: General/export.md
+      - Export/index.md
       - dt BC100: dt_BC100/export.md
       - dt Flat Bed: dt_FlatBed/export.md
-    - Troubleshooting: 
-      - General: Troubleshoot/index.md
-      - dt BC100: Troubleshoot/troubleshoot.md
-      - dt Flat Bed: Troubleshoot/troubleshoot.md
+    - Troubleshooting:
+      - Troubleshoot/index.md
+      #- dt BC100: Troubleshoot/troubleshoot.md
+      #- dt Flat Bed: Troubleshoot/troubleshoot.md
   - About:
     - About/index.md
     - Process: About/process.md
@@ -72,7 +72,7 @@ theme:
       links_attr_map:
         target: _blank
   markdown_extensions:
-    # Add snippets with the fornmat
+    # Add snippets with the format
     - pymdownx.snippets:
         auto_append:
           - includes/abbreviations.md
