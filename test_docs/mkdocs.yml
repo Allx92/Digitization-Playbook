@@ -68,7 +68,8 @@ theme:
     - search.highlight
   plugins:
     - search
-    - optimize
+    # Optimization plugin available only to insiders
+    #- optimize
     - privacy:
       # Don't use settings locally
       enabled: !ENV [CI, false]
