@@ -48,7 +48,7 @@ theme:
       accent: teal
   font:
     # Font for text
-    text: Roboto
+    text: Montserrat
     # Font for code
     code: Roboto Mono
   features:
