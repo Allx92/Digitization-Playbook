@@ -1,6 +1,6 @@
 ---
 search:
-  exclude: true
+  exclude: true         # Removes this page/file from the search index
 ---
 
 ## Installation Process
@@ -43,4 +43,5 @@ Also,
 
 - Add [`- navigation.indexes`](https://squidfunk.github.io/mkdocs-material/setup/setting-up-navigation/#section-index-pages) along with file layout to improve site flow.
 - Add [feedback widget](https://squidfunk.github.io/mkdocs-material/setup/setting-up-site-analytics/#was-this-page-helpful) to capture any issues with documentation, but it requires a third party plugin.
-- Confirm if we must distribute the site offline, which may be done via this [`offline plugin`](https://squidfunk.github.io/mkdocs-material/setup/building-for-offline-usage/#built-in-offline-plugin)
+- Confirm if we must distribute the site offline, which may be done via this [`offline plugin`](https://squidfunk.github.io/mkdocs-material/setup/building-for-offline-usage/#built-in-offline-plugin).
+- Confirm if documentation should have versioning. If so, consider if to use [`mike`](https://squidfunk.github.io/mkdocs-material/setup/setting-up-versioning/#setting-up-versioning).
