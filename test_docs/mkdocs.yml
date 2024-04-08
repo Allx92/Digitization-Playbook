@@ -1,4 +1,9 @@
+# Project Information
 site_name: Digitizing Documentation
+#site_url: https://example.com/
+site_description: The living documentation for the Digitization Team referencing the process to digitize objects.
+
+# Page Tree
 nav:
   - Home: index.md
   - User Guide:
@@ -27,8 +32,12 @@ nav:
     - Process: About/process.md
     - Glossary: About/glossary.md
     - Admin Setup: About/admin_setup.md
+
+# Configuration
 theme:
   name: material
+  icon:
+    logo: material/projector
   palette:
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
@@ -47,39 +56,92 @@ theme:
       primary: indigo
       accent: teal
   font:
-    # Font for text
-    text: Roboto
-    # Font for code
-    code: Roboto Mono
+    text: Montserrat              # Font for text
+    code: Roboto Mono             # Font for code
   features:
-    # Add navigation tabs, not shown on mobile
-    - navigation.tabs
-    - navigation.sections
-    - navigation.path
-    - navigation.prune
-    - navigation.indexes
-    - toc.follow
-    - toc.integrate
-    - search.suggest
-    - search.highlight
-  plugins:
-    - search
-    - optimize
-    - privacy:
-      # Don't use settings locally
-      enabled: !ENV [CI, false]
-      # Have external links open in a new tab
-      links_attr_map:
-        target: _blank
-  markdown_extensions:
-    # Add snippets with the format
-    - pymdownx.snippets:
-        auto_append:
-          - includes/abbreviations.md
-  watch:
-    - includes
-  highlightjs: true
-  hljs_style: github
-  hljs_languages:
-    - yaml
-    - python
+    #- navigation.tabs            # Add navigation tabs; not shown on mobile
+    - navigation.sections         # Add top-level sections are rendered as groups in the sidebar for viewports above 1220px
+    - navigation.path             # A breadcrumb navigation is rendered above the title of each page
+    - navigation.prune            # Only the visible navigation items are included in the rendered HTML
+    - navigation.indexes          # Documents can be directly attached to sections, which is particularly useful for providing overview pages
+    - toc.follow                  # The sidebar is automatically scrolled so that the active anchor is always visible
+    - toc.integrate               # Always render the toc as part of the navigation sidebar on the left
+    - search.suggest              # The search will display the likeliest completion for the last word which can be accepted with the `Right` key
+    - search.highlight            # Will highlight all occurrences of search results after following the link from search bar
+    - header.autohide             # The header is automatically hidden when the user scrolls past a certain threshold, leaving more space for content
+    - content.tooltips            # Replaces the browser's rendering logic for title attribute with beautiful little tooltips.
+    - content.tabs.link           # All content tabs across the whole documentation site will be linked and switch to the same label when the user clicks on a ta
+  icon:
+    annotation: material/plus-circle
+
+plugins:
+  - search                      # Re-add search plugin
+  - privacy
+  - glightbox:
+      touchNavigation: true
+      loop: false
+      effect: zoom
+      slide_effect: slide
+      width: 100%
+      height: auto
+      zoomable: true
+      draggable: true
+      skip_classes:
+        - skip-lightbox
+      auto_caption: false
+      caption_position: bottom
+      background: white
+      shadow: true
+
+watch:
+  - includes
+
+# Extensions
+markdown_extensions:
+  - abbr
+  - admonition                    # The Admonition extension adds support for admonitions, more commonly known as call-outs; See https://squidfunk.github.io/mkdocs-material/setup/extensions/python-markdown/#admonition
+  - attr_list
+  - def_list
+  - footnotes                     # Adds the ability to define inline footnotes, which are then rendered below all Markdown content of a document; See https://squidfunk.github.io/mkdocs-material/reference/footnotes/#footnotes
+  - md_in_html
+  - toc:
+      permalink: true
+#   - pymdownx.arithmatex:
+#       generic: true
+  - pymdownx.betterem:            # The BetterEm extension improves the detection of Markup to emphasize text in Markdown using special characters, i.e. for **bold** and _italic_ formatting; See https://squidfunk.github.io/mkdocs-material/setup/extensions/python-markdown-extensions/#betterem
+      smart_enable: all
+  - pymdownx.caret                # The Caret, Mark and Tilde extensions add the ability to highlight text and define sub- and superscript using a simple syntax; See https://squidfunk.github.io/mkdocs-material/setup/extensions/python-markdown-extensions/#caret-mark-tilde
+  - pymdownx.details              # The Details extension supercharges the Admonition extension, making the resulting call-outs collapsible, allowing them to be opened and closed by the user; See https://squidfunk.github.io/mkdocs-material/setup/extensions/python-markdown-extensions/#details
+#   - pymdownx.emoji:
+#       emoji_generator: !!python/name:material.extensions.emoji.to_svg
+#       emoji_index: !!python/name:material.extensions.emoji.twemoji
+#   - pymdownx.highlight:
+#       anchor_linenums: true
+#       line_spans: __span
+#       pygments_lang_class: true
+#   - pymdownx.inlinehilite
+#   - pymdownx.keys
+#   - pymdownx.magiclink:
+#       normalize_issue_symbols: true
+#       repo_url_shorthand: true
+#       user: squidfunk
+#       repo: mkdocs-material
+  - pymdownx.mark
+#   - pymdownx.smartsymbols
+  - pymdownx.snippets:
+      auto_append:
+        - includes/abbreviations.md
+  - pymdownx.superfences:         # The SuperFences extension allows for arbitrary nesting of code and content blocks inside each other, including admonitions, tabs, lists and all other elements; See https://squidfunk.github.io/mkdocs-material/setup/extensions/python-markdown-extensions/#superfences
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tabbed:              # The Tabbed extension allows the usage of content tabs, a simple way to group related content and code blocks under accessible tabs; See https://squidfunk.github.io/mkdocs-material/setup/extensions/python-markdown-extensions/#tabbed
+      alternate_style: true
+      combine_header_slug: true
+      slugify: !!python/object/apply:pymdownx.slugs.slugify
+        kwds:
+          case: lower
+  - pymdownx.tasklist:            # The Tasklist extension allows for the usage of GitHub Flavored Markdown inspired task lists, following the same syntactical conventions; See https://squidfunk.github.io/mkdocs-material/setup/extensions/python-markdown-extensions/#tasklist
+      custom_checkbox: true
+  - pymdownx.tilde
