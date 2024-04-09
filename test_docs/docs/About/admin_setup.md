@@ -67,6 +67,8 @@ The following terminal commands will guide you in setting up and running `mkdocs
 
 ### Test
 
+![test](../cropTools.png)
+
 
 ## To Do
 
