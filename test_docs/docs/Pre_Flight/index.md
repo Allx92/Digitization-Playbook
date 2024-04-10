@@ -19,14 +19,14 @@ The base characteristics are how the system is supposed to be configured at the 
 </figure>
 <div class="glightbox-desc custom-desc1">
   <p>Base Characteristics</p>
-  <p>Lorem ipsum.</p>
 </div>
 
 1. To begin, click on the **capture button** under the Pre-Flight tool tab, located in the Camera settings.
+
 2. **Base Characteristics:**
-- **Mode:** Ensure the *Mode* is set to **photography**.
-- **ICC profile:** In the same panel, check the *LCC Profile* is set to **Phase One iXH 150MP Flat Art LED DTPortion**.
-- **Curve:** In the same panel, also check that *Curve* is set to **Linear Scientific**.
+   - **`Mode`:** Photography
+   - **`ICC Profile`:** Phase One iXH 150 MP Flat Art LED DTPortion
+   - **`Curve`:** Linear Scientific
 
 ## Live View 
 Live View provides a real-time display of what the camera lens is capturing, allowing for adjustments to composition and sharpness. This ensures that the final image meets desired standards before capture.
