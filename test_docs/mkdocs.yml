@@ -23,6 +23,8 @@ nav:
       - Export/index.md
       - dt BC100: dt_BC100/export.md
       - dt Flat Bed: dt_FlatBed/export.md
+    - Shutdown:
+      - Shutdown/index.md
     - Troubleshooting:
       - Troubleshoot/index.md
       #- dt BC100: Troubleshoot/troubleshoot.md

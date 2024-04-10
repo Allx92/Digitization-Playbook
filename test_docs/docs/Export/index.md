@@ -27,8 +27,8 @@ Batch rename refers to the feature that allows users to rename multiple files at
 <figcaption>Batch Rename from Capture One</figcaption>
 </figure>
 <div class="glightbox-desc custom-desc1">
-  <p>Batch Rename from Capture One overlaying book, Girl in a jacket</p>
-  <p>Lorem ipsum.</p>
+  <p>Batch Rename from Capture One overlaying book, </p>
+  <p></p>
 </div>
 
  1. Highlight Cursor Icon located in the Top ribbon pane.
@@ -56,7 +56,7 @@ Export Recipes is a feature that enables users to save specific sets of export s
 
 
 <figure markdown>
-![Export Proc 2](../Assets/Images/Export/Export_Recipes_Update.png){ width="500px" data-title="Export Recipes from Capture One" data-description=".custom-desc2"}
+![Export Proc 2](../Assets/Images/Export/Export_Recipes_Update.png){ width="400px" data-title="Export Recipes from Capture One" data-description=".custom-desc2"}
 <figcaption>Export Recipes from Capture One</figcaption>
 </figure>
 <div class="glightbox-desc custom-desc2">
