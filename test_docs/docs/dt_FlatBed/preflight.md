@@ -21,7 +21,7 @@ The base characteristics are how the system is supposed to be configured at the 
   <p>Base Characteristics</p>
 </div>
 
-1. To being, click on the **capture button** under the Pre-Flight tool tab, located in the Camera settings.
+1. To begin, click on the **capture button** under the Pre-Flight tool tab, located in the Camera settings.
 
 2. **`Base Characteristics:`**
     - **`Mode`:** Photography
@@ -36,12 +36,12 @@ Live View provides a real-time display of what the camera lens is capturing, all
 1. **Set Resolution PPI** Open *Live View* to set the *Resolution PPI*. Set the PPI to 4000 or 5000. 
 - **Enter PPI Value:**Enter the PPI value to 4000 PPI or 5000 PPI, or click ">" and "<" to adjust the PPI.
 - **Focus:**Use the hand control to manually focus the camera by pushing the up and down keys until the *Live View Focus Meter* is highlighted orange.
-- **Capture:** Open *Live View*. Capture the target and zoom in on the purple icons to ensure the resolution is clear.
+- **Capture:**Capture the target and zoom in on the purple icons to ensure the resolution is clear.
 
 !!! note ""
     When zooming in on the purple icons look for crisp, well-defined edges, and fine details with no blurring or softness. 
 
-2. **Apply Guidelines:** Apply guidelines and position film target to the center of the guidelines.
+2. **Apply Guidelines:** Under the *System Check tab*, navigate to *Guides*, to apply guidelines and position the film target to the center of the guidelines.
 - **Capture target:** Capture to save the setting adjustments as you go.  
 
 3. **Remove Transmissive Target:** Once guidelines are applied, remove the transmissive target from the target tray.
