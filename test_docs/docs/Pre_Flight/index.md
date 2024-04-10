@@ -14,7 +14,7 @@ Before starting the capture process, the Pre-Flight workflow ensures that the ca
 The base characteristics are how the system is supposed to be configured at the start of the Pre-Flight.
 
 <figure markdown>
-![Preflight Proc 1](../Assets/Images/Pre_Flight/PBaseCharacteristics.png){ width="550px" data-title="Base Characteristics" data-description=".custom-desc1"}
+![Preflight Proc 1](../Assets/Images/Pre_Flight/PreFlight_001.png){ width="550px" data-title="Base Characteristics" data-description=".custom-desc1"}
 <figcaption>Base Characteristics</figcaption>
 </figure>
 <div class="glightbox-desc custom-desc1">
