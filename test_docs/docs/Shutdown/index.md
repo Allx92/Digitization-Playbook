@@ -1,5 +1,5 @@
 ---
- title: Troubleshooting (Dc100 & Flatbed)
+title: Troubleshooting (Dc100 & Flatbed)
 summary: The Shutdown Process provides the Operator a safe and standardized way of powe
 authors:
     - Alexander Greene
