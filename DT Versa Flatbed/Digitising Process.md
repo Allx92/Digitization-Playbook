@@ -6,7 +6,7 @@ This section aims to provide insight and guidance into the process of digtizing 
 ## Steps to capture a target
 
 
-+ Remove target tray
++ Remove target tray 
 + Adjust transmissive carrier to size of transmissive items
 + Carefully apply transmissive items in transmissive carrier 
 + Open live view to make sure that items are placed in-between guidelines with top of image at the bottom of the carrier 
