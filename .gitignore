@@ -5,4 +5,4 @@ venv/
 # Ignore site folder from mkdocs
 site/
 # Ignore cache
-test-docs/.cache/
+test_docs/.cache/
