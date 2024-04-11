@@ -7,6 +7,7 @@ authors:
 date: 2024-04-09
 ---
 
+
 # Troubleshooting Guide for dt BC100 Scanner & dt Versa Flatbed Scanner
 
 This guide will assist the operator in troubleshooting common problems associated with the DT BC100 Scanner and the DT Versa Flatbed Scanner.
