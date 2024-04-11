@@ -7,26 +7,20 @@ site_description: The living documentation for the Digitization Team referencing
 nav:
   - Home: index.md
   - User Guide:
-    - Preliminary Setup: 
-      - Prelim_Setup/index.md
-      - dt BC100: dt_BC100/morning.md
-      - dt Flat Bed: dt_FlatBed/morning.md
-    - Pre-Flight:
-      - Pre_Flight/index.md
-      - dt BC100: dt_BC100/preflight.md
-      - dt Flat Bed: dt_FlatBed/preflight.md
-    - Process:
-      - Digi_Process/index.md
-      - dt BC100: dt_BC100/digiproc.md
-      - dt Flat Bed: dt_FlatBed/digiproc.md
-    - Export:
-      - Export/index.md
-      - dt BC100: dt_BC100/export.md
-      - dt Flat Bed: dt_FlatBed/export.md
-    - Shutdown:
-      - Shutdown/index.md
-    - Troubleshooting:
-      - Troubleshoot/index.md
+    - Preliminary Setup: Prelim_Setup/prelim_setup.md #index.md
+      #- dt BC100: dt_BC100/morning.md
+      #- dt Flat Bed: dt_FlatBed/morning.md
+    - Pre-Flight: Pre_Flight/pre_flight.md #index.md
+      #- dt BC100: dt_BC100/preflight.md
+      #- dt Flat Bed: dt_FlatBed/preflight.md
+    - Process: Digi_Process/digi_proc.md #index.md
+      #- dt BC100: dt_BC100/digiproc.md
+      #- dt Flat Bed: dt_FlatBed/digiproc.md
+    - Export: Export/export.md #index.md
+      #- dt BC100: dt_BC100/export.md
+      #- dt Flat Bed: dt_FlatBed/export.md
+    - Shutdown: Shutdown/shutdown.md #index.md
+    - Troubleshooting: Troubleshoot/troubleshoot.md #index.md
       #- dt BC100: Troubleshoot/troubleshoot.md
       #- dt Flat Bed: Troubleshoot/troubleshoot.md
   - About:
@@ -38,8 +32,8 @@ nav:
 # Configuration
 theme:
   name: material
-  icon:
-    logo: material/projector
+  logo: Assets/target_logo.png
+  favicon: Assets/target_logo.png
   palette:
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
@@ -67,7 +61,7 @@ theme:
     - navigation.prune            # Only the visible navigation items are included in the rendered HTML
     - navigation.indexes          # Documents can be directly attached to sections, which is particularly useful for providing overview pages
     - toc.follow                  # The sidebar is automatically scrolled so that the active anchor is always visible
-    - toc.integrate               # Always render the toc as part of the navigation sidebar on the left
+    #- toc.integrate               # Always render the toc as part of the navigation sidebar on the left
     - search.suggest              # The search will display the likeliest completion for the last word which can be accepted with the `Right` key
     - search.highlight            # Will highlight all occurrences of search results after following the link from search bar
     - header.autohide             # The header is automatically hidden when the user scrolls past a certain threshold, leaving more space for content
@@ -77,7 +71,7 @@ theme:
     annotation: material/plus-circle
 
 plugins:
-  - search                      # Re-add search plugin
+  - search                      # Re-add search plugin; This is required when other plugins are loaded
   - privacy
   - glightbox:
       touchNavigation: true
@@ -95,7 +89,7 @@ plugins:
       background: white
       shadow: true
 
-watch:
+watch:                            # This informs `mkdocs` which folders to monitor when reloading
   - includes
 
 # Extensions
@@ -108,6 +102,7 @@ markdown_extensions:
   - md_in_html
   - toc:
       permalink: true
+      toc_depth: 0
 #   - pymdownx.arithmatex:
 #       generic: true
   - pymdownx.betterem:            # The BetterEm extension improves the detection of Markup to emphasize text in Markdown using special characters, i.e. for **bold** and _italic_ formatting; See https://squidfunk.github.io/mkdocs-material/setup/extensions/python-markdown-extensions/#betterem

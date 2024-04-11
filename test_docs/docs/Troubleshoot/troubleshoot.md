@@ -1,12 +1,14 @@
 ---
 title: Troubleshooting ( Dc100 & Flatbed)
-summary: The troubleshooting section below entails the common errors found with the abovementioned workstations and possible solutions to specific problems.
+summary: The troubleshooting section below entails the common errors found with the above mentioned workstations and possible solutions to specific problems.
 authors:
     - Alexander Greene
     - TBD
 date: 2024-04-09
 ---
 
+
+HI Mom
 # Troubleshooting Guide for dt BC100 Scanner & dt Versa Flatbed Scanner
 
 This guide will assist the operator in troubleshooting common problems associated with the DT BC100 Scanner and the DT Versa Flatbed Scanner.
