@@ -18,9 +18,10 @@ This guide will assist the operator in troubleshooting common problems associate
 **Issue Description**: At times, while operating the device, you might notice that your Live View shows a green tint.
 
 **Troubleshooting Steps:**
+
 - To correct this, you need to manually adjust the colour settings.
 - To do so, locate the 'tool' tab on the top panel of the software interface.
-- Find and click on the 'add colour' option.
+- Find and click on the 'colorcast' tool located at the top in cursor tools.
 - After this, click on the image displaying in the Live View. This should correct the unwanted green tint.
 
 ---
@@ -39,12 +40,12 @@ This guide will assist the operator in troubleshooting common problems associate
 
 **Troubleshooting Steps**:
 
-**Solution 1**:
+**Solution 1(Camera)**:
 - The first solution might sound simple, but it is quite effective.
-- Power off the camera by disconnecting it from the power source or switch it off using the power button, if available.
+- Power off the camera by disconnecting it from the power source (unplug)
 - After waiting for a moment, power it on again. This will reset the camera's internal systems and can often correct any detection issues.
 
-**Solution 2**:
+**Solution 2 (Computer)**:
 - If the issue persists even after restarting the camera, then there could be a problem with the workstation's software that leverages the scanner.
 - In such cases, restart your computer.
 - This would reset the system processes and could also update the camera’s drivers, solving the detection problem.
