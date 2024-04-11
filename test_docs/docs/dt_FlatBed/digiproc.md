@@ -34,3 +34,6 @@ This section covers the adjustments needed to prepare the digitized images for l
 - Set the *Straighten* option to *Average*.
 - Apply a padding of 100 pixels for a clean look.
 - **Focus Check:** Use the focus tool to ensure all four corners of the images are clear and sharp.
+
+3. **Apply Guidelines:** Apply guidelines and position film target to the center of the guidelines.
+- Capture target -  zoom in to view the resolutions lines, ensure the PPI and Resolution is clear.
