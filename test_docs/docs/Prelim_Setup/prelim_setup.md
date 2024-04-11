@@ -162,9 +162,10 @@ date: 2024-04-04
 
     Digitization Team: Morning Routine Preparation
 
-    > This document outlines the necessary steps followed by the Digitization Team to prepare their software and workspace for using the DT Versa Flatbed Scanner.
+    !!! note "Note"
+        This document outlines the necessary steps followed by the Digitization Team to prepare their software and workspace for using the DT Versa Flatbed Scanner.
 
-    <span style="color:#7CD2FD "> **NOTE**: Any additional changes to this file will be in colored in **blue text**.</span>
+        <span style="color:#7CD2FD "> **NOTE**: Any additional changes to this file will be in colored in **blue text**.</span>
 
     ## General Workspace Preparation
     1. **Check in Bags**: Ensure all personal belongings are stored securely.
@@ -195,6 +196,7 @@ date: 2024-04-04
     1. **Turn on Computer**: Power on your computer and enter your password.
     2. **Open Capture One Software**: Launch the Capture One software application.
     3. **Create New Session**:
+
         * Go to the "File" menu and select "New Session."
 
         <figure markdown>
@@ -251,8 +253,10 @@ date: 2024-04-04
     </div>
 
     **Next Steps**
+
     * Refer to the "Get Documents Librarian -> Spin Off -> Material Retrievers -> Target in Cradle" section of a separate document for instructions on retrieving and placing materials onto the scanner bed.
 
-    Additional Notes
+    **Additional Notes**
+    
     * This document serves as a general guideline. Specific adjustments might be required depending on the type of material being scanned.
     * Consult with the Digitization Team Lead for any questions or if you encounter any difficulties during the setup process.
