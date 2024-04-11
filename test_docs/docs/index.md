@@ -23,4 +23,10 @@ The PreFlight section outlines calibrating the camera and configuring capture se
 This section outlines the steps involved in capturing images of the physical object. It involves careful positioning of the object, systematic capturing of each page, and cropping and processing of the images to prepare them for further use. This section emphasizes the importance of attention to detail in capturing and processing images to ensure the highest quality.
 
 ## [Export](Export/index.md)
-The Export section outlines the steps for exporting and renaming the processed object images. It ensures consistent naming conventions, selection of high-quality export formats, and organized storage to allow for easy retrieval of the digitized images.
+This section outlines the steps for exporting and renaming the processed object images. It ensures consistent naming conventions, selection of high-quality export formats, and organized storage to allow for easy retrieval of the digitized images.
+
+## [Shutdown](Shutdown/index.md)
+This section outlines the process for powering down the workstations and ...
+
+## [Troubleshoot](Troubleshoot/index.md)
+This section outlines the various issues which may arise during any part of the process while outlining its connected solution, if available.
