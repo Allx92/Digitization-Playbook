@@ -7,7 +7,7 @@ authors:
 date: 2024-04-04
 ---
 
-=== "dt BC 100"
+=== "dt BC 100 Scanner"
     Before starting the capture process, the Pre-Flight workflow ensures that the camera settings are configured properly, which includes camera resolution, focus, LCC, white balance, and exposure, so that images are an accurate reproduction of the original object.
 
     ## Base Characteristics
