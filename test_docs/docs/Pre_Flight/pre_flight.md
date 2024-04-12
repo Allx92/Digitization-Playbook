@@ -37,7 +37,6 @@ date: 2024-04-04
     </figure>
     <div class="glightbox-desc custom-desc2">
       <p>Live View</p>
-      <p>Lorem ipsum.</p>
     </div>
 
     1. To enter **Live View** mode click on the **Live View button** under the Pre-Flight tool tab.
@@ -107,7 +106,7 @@ date: 2024-04-04
 
 
     5. **Check Readouts:** Make sure *Readouts* in all four corners match the middle.
-    6. **Adjust Shutter Speed:** If readouts exceeds 70 make the necessary changes adjustments to the shutter speed.
+    6. **Adjust Shutter Speed:** If readouts exceed 70 make the necessary adjustments to the shutter speed.
 
     <figure markdown>
     ![Preflight Proc 8](../Assets/Images/Pre_Flight/PreFlight_009.png){ width="550px" data-title="Color Readout" data-description=".custom-desc8"}
@@ -216,7 +215,7 @@ date: 2024-04-04
     ## Live View 
     Live View provides a real-time display of what the camera lens is capturing, allowing for adjustments to composition and sharpness. This ensures that the final image meets desired standards before capture.
 
-    1. **Set Resolution PPI** Open *Live View* to set the *Resolution PPI*. Set the PPI to 4000 or 5000.
+    1. **Set Resolution PPI** Open *Live View* to set the *Resolution PPI*. PPI should be set to 4000 or 5000.
         - **Enter PPI Value:** Enter the PPI value to 4000 PPI or 5000 PPI, or click ">" and "<" to adjust the PPI.
         - **Focus:** Use the hand control to manually focus the camera by pushing the up and down keys until the *Live View Focus Meter* is highlighted orange.
         - **Capture:** Capture the target and zoom in on the purple icons to ensure the resolution is clear.
@@ -224,14 +223,20 @@ date: 2024-04-04
     !!! note "NOTE"
         When zooming in on the purple icons look for crisp, well-defined edges, and fine details with no blurring or softness. 
 
-    2. **Apply Guidelines:** Under the *System Check tab*, navigate to *Guides*, to apply guidelines and position the film target to the center of the guidelines.
+    2. **Apply Guidelines:** Under the *System Check tab*, navigate to *Guides*, to apply guidelines and position the guidelines that the film target is in the center of the guidelines.
         - **Capture Target:** Capture to save the setting adjustments as you go.  
 
     3. **Remove Transmissive Target:** Once guidelines are applied, remove the transmissive target from the target tray.
 
     4. **Check Lighting:** Put the camera in live view mode and ensure that the lighting covers all borders of the capture area.
 
-    5. **Adjust Color Readouts:** Apply color readouts. Ensure Readouts are 95; if the Readouts are 100, it is too high. Change shutter speed and aperture until Readouts read 95 or close to 95.
+    !!! note "Note"
+        If the light doesn't cover all four corners of the capture area use the sliders on the the flatbed bench to adjust the light. 
+
+    5. **Adjust Color Readout:** Go to the cursor toolbar and select **Add Color Readout**. Apply the color readout to the middle of the capture area in *Live View*. Adjust the shutter speed to get as close to 95 and adjust the exposure slidder to ensure *Readout* is 95.
+    
+    !!! note
+        If Readouts are 100, it is too high. Change shutter speed and aperture until Readouts read 95 or close to 95.
 
     6. **Create LCC:** In the LCC panel, select *Create LCC* and capture the target. 
 
@@ -245,4 +250,4 @@ date: 2024-04-04
     **Exposure:**
     Exposure adjustments are based on the amount of light that reaches the camera sensor, and is determined by the shutter speed, aperture and ISO.
 
-    **Adjust Exposure:** In the left panel, under Exposure, select the *Exposure slidder* to adjust.  
+    **Adjust Exposure:** In the *PreFlight tab, under *Exposure panel*, select the *Exposure slidder* to adjust the exposure, when necessary.  
