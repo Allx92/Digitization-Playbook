@@ -56,7 +56,7 @@ This guide will assist the operator in troubleshooting common problems associate
 
 **Solution 2 (Computer)**:
 
-<img src="https://github.com/Allx92/Digitization-Playbook/blob/main/Restart%20Computer.png" alt="Img 5" width="500" height="500">
+<img src="https://github.com/Allx92/Digitization-Playbook/blob/main/images/Restart%20Computer%202%20.png" height="500">
 - If the issue persists even after restarting the camera, then there could be a problem with the workstation's software that leverages the scanner.
 - In such cases, restart your computer.
 - This would reset the system processes and could also update the camera’s drivers, solving the detection problem.
