@@ -31,7 +31,7 @@ This guide will assist the operator in troubleshooting common problems associate
 
 ### 2. Station 2 (Red Colour from LCC Board Capture and Workspace Issues):
 
-<img src="" alt="Img 1" width="600" height="500">
+<img src="" alt="Img 2" width="600" height="500">
 
 **Issue Description**: The image appears to be clipping and there might be sudden spurts of red colour. Also, the colour readouts often record incorrect measurements. When you try to correct this, a persistent 'Red Cast' appears  whenever you try to change exposure settings. In addition to this, the workspace does not retain its settings and every time you reopen it, you have to add the System Check Tool and Export Tool.
 
@@ -43,16 +43,20 @@ This guide will assist the operator in troubleshooting common problems associate
 
 **Issue Description**: Sometimes, the workstation may not detect the camera. This can happen due to several reasons like hardware malfunctioning, issues with the software's camera drivers, or the camera might not be securely connected to the workstation.
 
-<img src="" alt="Img 1" width="600" height="500">
+<img src="" alt="Img 3" width="600" height="500">
 
 **Troubleshooting Steps**:
 
 **Solution 1 (Camera)**:
+
+<img src="" alt="Img 4" width="600" height="500">
 - The first solution might sound simple, but it is quite effective.
 - Power off the camera by disconnecting it from the power source (unplug)
 - After waiting for a moment, power it on again. This will reset the camera's internal systems and can often correct any detection issues.
 
 **Solution 2 (Computer)**:
+
+<img src="https://github.com/Allx92/Digitization-Playbook/blob/main/Restart%20Computer.png" alt="Img 5" width="500" height="500">
 - If the issue persists even after restarting the camera, then there could be a problem with the workstation's software that leverages the scanner.
 - In such cases, restart your computer.
 - This would reset the system processes and could also update the camera’s drivers, solving the detection problem.
