@@ -18,6 +18,8 @@ This guide will assist the operator in troubleshooting common problems associate
 
 **Issue Description**: At times, while operating the device, you might notice that your Live View shows a green tint.
 
+<img src="https://github.com/Allx92/Digitization-Playbook/blob/main/images/Green%20tint%20.png" alt="Img 1" width="600" height="500">
+
 **Troubleshooting Steps:**
 
 - To correct this, you need to manually adjust the colour settings.
@@ -35,7 +37,7 @@ This guide will assist the operator in troubleshooting common problems associate
 
 ---
 
-### 3. Camera Not Detected Issue (Across All Workstations):
+### 3. Camera Not Detected Issue:
 
 **Issue Description**: Sometimes, the workstation may not detect the camera. This can happen due to several reasons like hardware malfunctioning, issues with the software's camera drivers, or the camera might not be securely connected to the workstation.
 
