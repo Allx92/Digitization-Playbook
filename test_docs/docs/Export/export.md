@@ -41,7 +41,10 @@ date: 2024-04-04
 
     5. Cick on '...' located to the top right of window and select `Set Rename Counter`
     6. Set value to **2** since scanned images will increase in this manner.
-    >  **NOTE:**  The user of left workstation  will use page 1,  while the user of the right workstation will use page 2. The user of workstation 1 scans images in an odd number order (1,3,5) while the user of workstation 2 scans the images in an even number order (2,4,6).
+    ???+ note "Note"
+        The user of left workstation  will use page 1,  while the user of the right workstation will use page 2.
+        
+        The user of workstation 1 scans images in an odd number order (1,3,5) while the user of workstation 2 scans the images in an even number order (2,4,6).
     
     7. Click on '...' to the top right and select  `Set Rename Counter Increment`: This should be set to **2** as the increments increase in this manner.
     
@@ -152,7 +155,10 @@ date: 2024-04-04
 
     5. Cick on '...' located to the top right of window and select `Set Rename Counter`
     6. <span style="color:#7CD2FD">Set value to **'1'** since scanned images will increase in this manner</span>.
-    > **NOTE:**  The user of left workstation  will use page 1,  while the user of the right workstation will use page 2. The user of workstation 1 scans images in an odd number order (1,3,5), while the user of workstation 2 scans the images in an even number order (2,4,6).
+    ???+ note "Note"
+        The user of left workstation  will use page 1,  while the user of the right workstation will use page 2.
+        
+        The user of workstation 1 scans images in an odd number order (1,3,5), while the user of workstation 2 scans the images in an even number order (2,4,6).
     
     7. Click on '...' to the top right and select  `Set Rename Counter Increment`: This should be set to **1** as the increments increase in this manner.
     

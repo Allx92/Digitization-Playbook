@@ -42,14 +42,14 @@ date: 2024-04-04
 
     1. To enter **Live View** mode click on the **Live View button** under the Pre-Flight tool tab.
 
-    <figure markdown>
-    ![Preflight Proc 3](../Assets/Images/Pre_Flight/PreFlight_004.png){ width="550px" data-title="Auto-Focus" data-description=".custom-desc3"}
-    <figcaption>Auto-Focus</figcaption>
-    </figure>
-    <div class="glightbox-desc custom-desc3">
-      <p>Auto-Focus</p>
-      <p>Lorem ipsum.</p>
-    </div>
+      <figure markdown>
+      ![Preflight Proc 3](../Assets/Images/Pre_Flight/PreFlight_004.png){ width="550px" data-title="Auto-Focus" data-description=".custom-desc3"}
+      <figcaption>Auto-Focus</figcaption>
+      </figure>
+      <div class="glightbox-desc custom-desc3">
+        <p>Auto-Focus</p>
+        <p>Lorem ipsum.</p>
+      </div>
 
     2. **Set Camera Resolution:** Under the **Camera Focus** panel, set the camera *Resolution* to *600-PPI*.
     3. **Auto-focus (AF):** In the same panel, select *AF* to allow the software to automatically adjust the camera len focus based on the selected focus point. Drag the prompt to target to lock focus, if necessary.
@@ -120,7 +120,7 @@ date: 2024-04-04
 
     7. **Create LCC:** In the LCC panel, select *Create LCC* and capture the target.  
 
-    ## White balance
+    ## White Balance
     This process adjusts the colour of the photos captured to accurately represent how they appear in real life under the LCC lighting conditions. Ensuring whites appear truly white rather than a tinted colour.
 
     <figure markdown>
@@ -193,7 +193,7 @@ date: 2024-04-04
 
     The Pre-Flight workflow ensures that the camera settings are configured properly, which includes camera resolution, focus, LCC, white balance, and exposure, so that images are an accurate reproduction of the original object.
 
-    ## Base characteristics
+    ## Base Characteristics
     The base characteristics are how the system is supposed to be configured at the start of the preflight.
 
     <figure markdown>
@@ -216,16 +216,16 @@ date: 2024-04-04
     ## Live View 
     Live View provides a real-time display of what the camera lens is capturing, allowing for adjustments to composition and sharpness. This ensures that the final image meets desired standards before capture.
 
-    1. **Set Resolution PPI** Open *Live View* to set the *Resolution PPI*. Set the PPI to 4000 or 5000. 
-    - **Enter PPI Value:**Enter the PPI value to 4000 PPI or 5000 PPI, or click ">" and "<" to adjust the PPI.
-    - **Focus:**Use the hand control to manually focus the camera by pushing the up and down keys until the *Live View Focus Meter* is highlighted orange.
-    - **Capture:**Capture the target and zoom in on the purple icons to ensure the resolution is clear.
+    1. **Set Resolution PPI** Open *Live View* to set the *Resolution PPI*. Set the PPI to 4000 or 5000.
+        - **Enter PPI Value:** Enter the PPI value to 4000 PPI or 5000 PPI, or click ">" and "<" to adjust the PPI.
+        - **Focus:** Use the hand control to manually focus the camera by pushing the up and down keys until the *Live View Focus Meter* is highlighted orange.
+        - **Capture:** Capture the target and zoom in on the purple icons to ensure the resolution is clear.
 
     !!! note "NOTE"
         When zooming in on the purple icons look for crisp, well-defined edges, and fine details with no blurring or softness. 
 
     2. **Apply Guidelines:** Under the *System Check tab*, navigate to *Guides*, to apply guidelines and position the film target to the center of the guidelines.
-    - **Capture target:** Capture to save the setting adjustments as you go.  
+        - **Capture Target:** Capture to save the setting adjustments as you go.  
 
     3. **Remove Transmissive Target:** Once guidelines are applied, remove the transmissive target from the target tray.
 
@@ -235,7 +235,7 @@ date: 2024-04-04
 
     6. **Create LCC:** In the LCC panel, select *Create LCC* and capture the target. 
 
-    ## White balance
+    ## White Balance
     This process adjusts the colour of the photos captured to accurately represent how they appear in real life under the LCC lighting conditions. Ensuring whites appear truly white rather than a tinted colour.
 
     1. **Delete Readouts:** click with the ++right-button++ on one of the readouts and select delete all to remove.
