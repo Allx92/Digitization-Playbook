@@ -62,6 +62,7 @@ date: 2024-04-04
 
     3. **Computers:**
     - Turn on the two computers by pressing their power buttons located at the back of the units on the extreme left.
+    - A **WHITE** LED, ⚪ , should be iluminated once the workstation has been succesfully powered on. 
     - Confirm that all cables currently connected to the computers are secure.
 
     <figure markdown>
@@ -70,6 +71,15 @@ date: 2024-04-04
     </figure>
     <div class="glightbox-desc custom-desc3">
       <p>Workstation Computer's Power Button</p>
+      <p>Lorem ipsum.</p>
+    </div>
+
+    <figure markdown>
+    ![Prelim Proc 3]("../Assets/Images/Prelim_Setup/workstation power led.png"){ width="500px" data-title="Workstation Power Indicator " data-description=".custom-desc3"}
+    <figcaption>Workstation Power Indicator</figcaption>
+    </figure>
+    <div class="glightbox-desc custom-desc3">
+      <p>Workstation Power Indicator</p>
       <p>Lorem ipsum.</p>
     </div>
 
