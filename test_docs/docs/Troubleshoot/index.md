@@ -14,6 +14,7 @@ This guide will assist the operator in troubleshooting common problems associate
 ## Common Problems and Troubleshooting Steps
 
 ### 1. Station 1 (Green Tint in Live View on Left and Right Screen):
+<img src="" alt="Img 1" width="600" height="500">
 
 **Issue Description**: At times, while operating the device, you might notice that your Live View shows a green tint.
 
@@ -40,7 +41,7 @@ This guide will assist the operator in troubleshooting common problems associate
 
 **Troubleshooting Steps**:
 
-**Solution 1(Camera)**:
+**Solution 1 (Camera)**:
 - The first solution might sound simple, but it is quite effective.
 - Power off the camera by disconnecting it from the power source (unplug)
 - After waiting for a moment, power it on again. This will reset the camera's internal systems and can often correct any detection issues.
