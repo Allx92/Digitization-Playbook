@@ -16,9 +16,9 @@ The following is a brief explanation for using `mkdocs` coupled with `mkdocs-mat
 
 ## Installation Process
 
-Before using `mkdocs`, be sure to use the following steps.
+Before using `mkdocs`, be sure to use the following steps:
 
-The following terminal commands will guide you in setting up and running `mkdocs` locally.
+The following terminal commands will guide you in setting up and running `mkdocs` locally:
 <div class="annotate" markdown>
 1. `python3 -m venv venv` - Create a virtual environment entitled 'venv'.
 2. `source venv/bin/activate` - Activate the 'venv' virtual environment.
@@ -28,7 +28,7 @@ The following terminal commands will guide you in setting up and running `mkdocs
 6. `cd [dir-name]` - Assuming the folder for mkdocs, `dir-name` has been created, enter it(2).
 7. `mkdocs serve` - Run this command to load mkdocs and preview site as you write and save your files.
 </div>
-1.  `pip install mkdocs-material` will handle install the theme, `mk-docs` and usefule extension packages. If only `mkdocs` is required, use just the command `pip install mkdocs`.
+1.  `pip install mkdocs-material` will handle install the theme, `mk-docs` and useful extension packages. If only `mkdocs` is required, use just the command `pip install mkdocs`.
 2.  If the folder does not exist, first create it with `mkdocs new [dir-name]` then run the `cd`  command.
 
 ???+ note "Remember"
@@ -130,7 +130,7 @@ The following is how to insert content into tabs.
 
 ### [Page Status](https://squidfunk.github.io/mkdocs-material/reference/#setting-the-page-status "Setting the Page Status")
 
-There may be times when it's necessary to highlight certain pages and aside from a change log, the use of a page status may be prefferred. This current page has used one, please see the logo.
+There may be times when it's necessary to highlight certain pages and aside from a change log, the use of a page status may be preferred. This current page has used one, please see the logo.
 
 This was done by placing the following at the top of the file.
 
@@ -140,11 +140,85 @@ This was done by placing the following at the top of the file.
     ---
 ```
 
+
+### Embed Video
+
+We may need to embed video and can do so in the following manner.
+
+=== "Embed YouTube Video via html"
+
+    ```html
+    <div style="display: flex; justify-content: center;">
+        <iframe
+            width="560"
+            height="315"
+            src="https://www.youtube.com/embed/yb5QL-8Jezw?si=fChJVTfgOVv9hoPg"
+            title="YouTube video player"
+            frameborder="0"
+            allow="accelerometer;
+            autoplay;
+            clipboard-write;
+            encrypted-media;
+            gyroscope;
+            picture-in-picture;
+            web-share"
+            referrerpolicy="strict-origin-when-cross-origin"
+            allowfullscreen>
+        </iframe>
+    </div>
+    ```
+
+=== "Render YouTube Video"
+
+    <div style="display: flex; justify-content: center;">
+        <iframe
+            width="560"
+            height="315"
+            src="https://www.youtube.com/embed/yb5QL-8Jezw?si=fChJVTfgOVv9hoPg"
+            title="YouTube video player"
+            frameborder="0"
+            allow="accelerometer;
+            autoplay;
+            clipboard-write;
+            encrypted-media;
+            gyroscope;
+            picture-in-picture;
+            web-share"
+            referrerpolicy="strict-origin-when-cross-origin"
+            allowfullscreen>
+        </iframe>
+    </div>
+
+=== "Embed Video via Path-file"
+
+    ```html
+    <figure class="video_container">
+        <video controls="true" allowfullscreen="true">
+            <source src="../Assets/Videos/Digi_Process/Screen Recording 2024-04-04 at 09.31.06 3.mov" type="video/mov">
+        </video>
+    </figure>
+    ```
+=== "Render Video via Path-file"
+    <figure class="video_container">
+        <video controls="true" allowfullscreen="true">
+            <source src="../Assets/Videos/Digi_Process/Screen Recording 2024-04-04 at 09.31.06 3.mov" type="video/mov">
+        </video>
+    </figure>
+
+
+### [Logo](https://squidfunk.github.io/mkdocs-material/setup/changing-the-logo-and-icons/#changing-the-logo-and-icons "Logo & Icons Reference Guide")
+
+It is possible to change the logo, favicon and certain icons and favicon used on the site. You 
+
+
+
 ## To Do
 
 - Add [`- navigation.indexes`](https://squidfunk.github.io/mkdocs-material/setup/setting-up-navigation/#section-index-pages) along with file layout to improve site flow.
 - Add [feedback widget](https://squidfunk.github.io/mkdocs-material/setup/setting-up-site-analytics/#was-this-page-helpful) to capture any issues with documentation, but it requires a third party plugin.
 - Confirm if we must distribute the site offline, which may be done via this [`offline plugin`](https://squidfunk.github.io/mkdocs-material/setup/building-for-offline-usage/#built-in-offline-plugin).
 - Confirm if documentation should have versioning. If so, consider if to use [`mike`](https://squidfunk.github.io/mkdocs-material/setup/setting-up-versioning/#setting-up-versioning).
+
+
 
 
