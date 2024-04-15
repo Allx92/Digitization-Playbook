@@ -61,9 +61,9 @@ This guide will assist the operator in troubleshooting common problems associate
 - In such cases, restart your computer.
 - This would reset the system processes and could also update the camera’s drivers, solving the detection problem.
 
-Please note that troubleshooting steps may vary depending on your workstation's make and model. If your issues persist after trying the given solutions, please contact your device's support for further assistance.
+Please note that troubleshooting steps may vary depending on your workstation. If your issues persist after trying the given solutions, please contact your device's support for further assistance.
 
 ---
 
-Remember, always keep your devices' softwares up-to-date to get the latest features, improvements, and fixes for known issues. Be patient while troubleshooting, as some steps may take time to show effective results.
+Remember to always keep your device software up-to-date to ensure latest features and fixes for known issues. Be patient while troubleshooting, as some steps may take time to show effective results.
 
