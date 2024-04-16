@@ -85,7 +85,7 @@ After Color Readouts
 > Ensure that Readouts are placed in the middle of the color patch for an accurate Readout.
 
 
-<img src="images/ShutterAdjustments.png" alt="Shutter adjustment" width="250" height="350">
+<img src="https://github.com/Allx92/Digitization-Playbook/blob/main/images/Shutter%20Speed%20Adjustment%20.png" alt="Shutter adjustment" width="250" height="350">
 
 3. **Adjust Shutter Speed:** Navigate to the camera settings in the Pre-Flight tab to change the shutter speed to match the correct values, typically adjusting to 1/20 or 1/5 (trigger speed).
 4. **Capture:** Capture to save the setting adjustments as you go.  
