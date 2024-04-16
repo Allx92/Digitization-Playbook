@@ -194,7 +194,7 @@ date: 2024-04-04
     3. **Remove Lens Cap**: Remove the lens cap from the 120mm macro lens.
 
     ## Camera Settings
-    1. **Connect Lens Cord**: Plug the silver lens cord with the **red dot** into the back of the camera.
+    1. **Connect Lemo Cord**: Plug the silver lens cord with the **red dot** into the back of the camera.
 
     ## Light Settings
     1. **Turn on LED Light**:
