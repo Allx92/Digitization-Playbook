@@ -29,7 +29,7 @@ Live View provides a real-time display of what the camera lens is capturing, all
 
 <img src="images/5ResolutionLines.png" alt="resolution lines" width="550" height="650">
 
-6. **Capture:** Press capture to confirm adjustments.
+6. **Capture to Confirm:** Press capture to confirm adjustments.
 
 ## LCC board (white board) 
 The LCC board is used along with the software to correct lens cast, which is produced by uneven lighting across the frame. The LCC board is placed parallel above the glass plate matching the angle of the object being photograph. 
