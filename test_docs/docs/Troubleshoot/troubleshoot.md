@@ -15,7 +15,6 @@ This guide will assist the operator in troubleshooting common problems associate
 ## Common Problems and Troubleshooting Steps
 
 ### 1. Station 1 (Green Tint in Live View on Left and Right Screen):
-<img src="" alt="Img 1" width="600" height="500">
 
 **Issue Description**: At times, while operating the device, you might notice that your Live View shows a green tint.
 
