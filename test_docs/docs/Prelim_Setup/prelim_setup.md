@@ -42,7 +42,7 @@ date: 2024-04-04
       <p>Lorem ipsum.</p>
     </div>
 
-    2. **Down Lights:**
+     **Down Lights:**
     - Turn on the down lights for the workstation from the power supply labeled "Digital Transitions Heritage".
     - Locate the power switch on the extreme left, labeled "POWER."
     - When turning on the power supply, confirm the following:
