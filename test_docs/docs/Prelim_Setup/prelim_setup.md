@@ -107,7 +107,7 @@ date: 2024-04-04
       <p>Lorem ipsum.</p>
     </div>
 
-    6. **Computer Monitors:**
+     **Computer Monitors:**
     - Ensure the power cable is plugged into the back of the monitor.
     - Turn on the monitor by using the switch located at the bottom of the cable.
 
@@ -161,7 +161,7 @@ date: 2024-04-04
             - Details: 50
             - Colour: 40
 
-    6. **Retrieving Materials:** Locate the Librarian (or the appropriate personnel) for assistance in retrieving the materials you'll be digitizing.
+    6. **Retrieving Materials:** Locate the Porter (or the appropriate personnel) for assistance in retrieving the materials you'll be digitizing.
 
     7. **Material Placement:** Place the materials you'll be working with in the designated cradle.
 
@@ -264,7 +264,7 @@ date: 2024-04-04
 
     **Next Steps**
 
-    * Refer to the "Get Documents Librarian -> Spin Off -> Material Retrievers -> Target in Cradle" section of a separate document for instructions on retrieving and placing materials onto the scanner bed.
+    * Clarify with the Porter/Material Retrievers for instructions on retrieving and placing materials onto the scanner bed.
 
     **Additional Notes**
     
