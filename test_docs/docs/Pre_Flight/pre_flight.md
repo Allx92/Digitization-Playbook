@@ -107,13 +107,14 @@ date: 2024-04-04
 
         <figure markdown>
             ![Preflight Proc 1](../Assets/Images/Pre_Flight/PreFlight_009.png){ width="550px" data-title="CreateLCC" data-description=".custom-desc1"}
-            <figcaption>Create LCC</figcaption>
+           
+    7. **Create LCC:** In the LCC panel, select *Create LCC* and capture the target.
+
+     <figcaption>Create LCC</figcaption>
             </figure>
             <div class="glightbox-desc custom-desc1">
               <p>Create LCC</p>
             </div>
-
-    7. **Create LCC:** In the LCC panel, select *Create LCC* and capture the target.  
 
     ## White Balance
     This process adjusts the colour of the photos captured to accurately represent how they appear in real life under the LCC lighting conditions. Ensuring whites appear truly white rather than a tinted colour.
