@@ -46,14 +46,16 @@ The LCC board must fill the frame before capturing.
 
 4. **Add Colour Readout:** Go to the cursor toolbar and select **Add Color Readout**. Add the *Color Readouts* to the four corners and middle of the LCC board, ensure the *Color Readout* in the middle of the target reads **60** or **70**.
 
-<img src="images/PreFlight_008.png" alt="Color Readout" width="550" height="650">
 
 5. **Check Readouts:** Make sure *Readouts* in all four corners match the middle.
 6. **Adjust Shutter Speed:** If readouts exceeds 70 make the necessary changes adjustments to the shutter speed.
-   
-<img src="images/PreFlight_009.png" alt="Color Readout" width="550" height="650">
 
-7. **Create LCC:** In the LCC panel, select *Create LCC* and capture the target.  
+   <img src="https://github.com/Allx92/Digitization-Playbook/blob/main/images/Shutter%20Speed%20Revised%20.png" alt="Color Readout" width="550" height="650">
+   
+
+7. **Create LCC:** In the LCC panel, select *Create LCC* and capture the target.
+
+<img src="images/PreFlight_009.png" alt="Color Readout" width="550" height="650">  
 
 ## White balance
 This process adjusts the colour of the photos captured to accurately represent how they appear in real life under the LCC lighting conditions. Ensuring whites appear truly white rather than a tinted colour.
