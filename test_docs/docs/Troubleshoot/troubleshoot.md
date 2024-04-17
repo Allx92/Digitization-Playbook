@@ -43,13 +43,9 @@ This guide will assist the operator in troubleshooting common problems associate
 
 **Issue Description**: Sometimes, the workstation may not detect the camera. This can happen due to several reasons like hardware malfunctioning, issues with the software's camera drivers, or the camera might not be securely connected to the workstation.
 
-<img src="" alt="Img 3" width="600" height="500">
-
 **Troubleshooting Steps**:
 
 **Solution 1 (Camera)**:
-
-<img src="" alt="Img 4" width="600" height="500">
 
 - The first solution might sound simple, but it is quite effective.
 - Power off the camera by disconnecting it from the power source (unplug)
