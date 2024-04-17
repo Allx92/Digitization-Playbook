@@ -226,15 +226,15 @@ date: 2024-04-04
 
             !!! note "NOTE"
                 When zooming in on the purple icons check for crisp, well-defined edges, and fine details with no blurring or softness. 
-        <figure markdown>
+       
+    2. **Apply Guidelines:** Navigate to *Guides*, under the *System Check tab* to apply guidelines and position the guidelines, so the film target is in the center of the guidelines.
+    <figure markdown>
           ![Preflight Proc 1](../Assets/Images/Pre_Flight/dt_FlatBed/FB_Guidelines.png){ width="550px" data-title="Guidelines" data-description=".custom-desc1"}
           <figcaption>Guidelines</figcaption>
           </figure>
           <div class="glightbox-desc custom-desc1">
             <p>Apply guidelines</p>
           </div>
-
-    2. **Apply Guidelines:** Navigate to *Guides*, under the *System Check tab* to apply guidelines and position the guidelines, so the film target is in the center of the guidelines.
         - **Capture Target:** Capture to save setting.  
 
     3. **Remove Transmissive Target:** Once guidelines are applied, remove the transmissive target from the target tray.
