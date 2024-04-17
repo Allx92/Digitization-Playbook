@@ -243,15 +243,15 @@ date: 2024-04-04
         !!! note "Note"
             If the light doesn't cover all four corners of the capture area use the sliders on the the flatbed bench to adjust the light. 
 
-        <figure markdown>
+    5. **Adjust Color Readout:** Go to the cursor toolbar and select **Add Color Readout**. Apply the color readout to the middle of the capture area in *Live View*. Adjust the shutter speed to get as close to 95 and adjust the exposure slidder to ensure *Readout* is 95.
+
+     <figure markdown>
         ![Preflight Proc 1](../Assets/Images/Pre_Flight/dt_FlatBed/FB_ColorReadout.png){ width="550px" data-title="ColorReadout" data-description=".custom-desc1"}
         <figcaption>Color Readout</figcaption>
         </figure>
         <div class="glightbox-desc custom-desc1">
           <p>Color Readout.</p>
         </div>
-
-    5. **Adjust Color Readout:** Go to the cursor toolbar and select **Add Color Readout**. Apply the color readout to the middle of the capture area in *Live View*. Adjust the shutter speed to get as close to 95 and adjust the exposure slidder to ensure *Readout* is 95.
     
         !!! note
             If Readouts are 100, it is too high. Change shutter speed and aperture until Readouts read 95 or close to 95.
