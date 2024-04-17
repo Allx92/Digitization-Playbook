@@ -52,7 +52,8 @@ The LCC board must fill the frame before capturing.
 
    <img src="https://github.com/Allx92/Digitization-Playbook/blob/main/images/Shutter%20Speed%20Revised%20.png" alt="Color Readout" width="550" height="650">
    
-
+   - NB:The dt BC100 workstation uses a 72mm Lens  
+   
 7. **Create LCC:** In the LCC panel, select *Create LCC* and capture the target.
 
 <img src="images/PreFlight_009.png" alt="Color Readout" width="550" height="650">  
