@@ -31,7 +31,7 @@ This guide will assist the operator in troubleshooting common problems associate
 
 ### 2. Station 2 (Red Colour from LCC Board Capture and Workspace Issues):
 
-<img src="" alt="Img 2" width="600" height="500">
+<img src="https://github.com/Allx92/Digitization-Playbook/blob/main/images/Red%20Color%20Cast%20.jpg" alt="Img 2" width="500" height="500">
 
 **Issue Description**: The image appears to be clipping and there might be sudden spurts of red colour. Also, the colour readouts often record incorrect measurements. When you try to correct this, a persistent 'Red Cast' appears  whenever you try to change exposure settings. In addition to this, the workspace does not retain its settings and every time you reopen it, you have to add the System Check Tool and Export Tool.
 
