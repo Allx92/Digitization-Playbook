@@ -18,7 +18,14 @@ This guide will assist the operator in troubleshooting common problems associate
 
 **Issue Description**: At times, while operating the device, you might notice that your Live View shows a green tint.
 
-<img src="https://github.com/Allx92/Digitization-Playbook/blob/main/images/Green%20tint%20.png" alt="Img 1" width="600" height="500">
+<figure markdown>
+![Preflight Proc 1](https://github.com/Allx92/Digitization-Playbook/blob/main/images/Green%20tint%20.png){ width="550px" data-title="Base Characteristics" data-description=".custom-desc1"}
+<figcaption>Base Characteristics</figcaption>
+</figure>
+<div class="glightbox-desc custom-desc1">
+  <p>Base Characteristics</p>
+</div>
+
 
 **Troubleshooting Steps:**
 
@@ -31,7 +38,14 @@ This guide will assist the operator in troubleshooting common problems associate
 
 ### 2. Station 2 (Red Colour from LCC Board Capture and Workspace Issues):
 
-<img src="https://github.com/Allx92/Digitization-Playbook/blob/main/images/Red%20Color%20Cast%20.jpg" alt="Img 2" width="500" height="500">
+<figure markdown>
+![Preflight Proc 1](https://github.com/Allx92/Digitization-Playbook/blob/main/images/Red%20Color%20Cast%20.jpg){ width="550px" data-title="Base Characteristics" data-description=".custom-desc1"}
+<figcaption>Base Characteristics</figcaption>
+</figure>
+<div class="glightbox-desc custom-desc1">
+  <p>Base Characteristics</p>
+</div>
+
 
 **Issue Description**: The image appears to be clipping (excessive light) and there might be sudden spurts of red colour. Also, the colour readouts often record incorrect measurements. When you try to correct this, a persistent 'Red Cast' appears  whenever you try to change exposure settings. In addition to this, the workspace does not retain its settings and every time you reopen it, you have to add the System Check Tool and Export Tool.
 
@@ -53,7 +67,13 @@ This guide will assist the operator in troubleshooting common problems associate
 
 **Solution 2 (Computer)**:
 
-<img src="https://github.com/Allx92/Digitization-Playbook/blob/main/images/Restart%20Computer%202%20.png" height="500">
+<figure markdown>
+![Preflight Proc 1](https://github.com/Allx92/Digitization-Playbook/blob/main/images/Restart%20Computer%202%20.png){ width="550px" data-title="Base Characteristics" data-description=".custom-desc1"}
+<figcaption>Base Characteristics</figcaption>
+</figure>
+<div class="glightbox-desc custom-desc1">
+  <p>Base Characteristics</p>
+</div>
 - If the issue persists even after restarting the camera, then there could be a problem with the workstation's software that leverages the scanner.
 - In such cases, restart your computer.
 - This would reset the system processes and could also update the camera’s drivers, solving the detection problem.
