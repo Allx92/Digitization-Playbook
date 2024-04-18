@@ -23,19 +23,37 @@ date: 2024-04-09
     - To shut down the system, navigate to the apple sign located in the top left-hand corner of your screen.
     - Click on the apple sign and select "Shut Down" from the dropdown menu.
 
-      <img src="https://github.com/Allx92/Digitization-Playbook/blob/main/images/Shut%20down%20.png" alt="Shut Down" width="400" height="400">
+<figure markdown>
+![Preflight Proc 1](https://github.com/Allx92/Digitization-Playbook/blob/main/images/Shut%20down%20.png){ width="550px" data-title="Base Characteristics" data-description=".custom-desc1"}
+<figcaption>Base Characteristics</figcaption>
+</figure>
+<div class="glightbox-desc custom-desc1">
+  <p>Base Characteristics</p>
+</div>
 
     The computer will commence its shutdown sequence. All lights on the computer & keyboard should be off when shut down is complete.
 
 4. **Handle the Camera Carefully After Use:**
     Carefully put the lens cap back on the Camera to protect the lens from any physical damage.
 
-   <img src="https://github.com/Allx92/Digitization-Playbook/blob/main/images/Lens%20Cap.jpeg" alt="Lens Cap" width="400" height="400">
+<figure markdown>
+![Preflight Proc 1](https://github.com/Allx92/Digitization-Playbook/blob/main/images/Lens%20Cap.jpeg){ width="550px" data-title="Base Characteristics" data-description=".custom-desc1"}
+<figcaption>Base Characteristics</figcaption>
+</figure>
+<div class="glightbox-desc custom-desc1">
+  <p>Base Characteristics</p>
+</div>
 
 6. **Turn off Camera's Power Supply:**
     To switch off the camera, pull out the lemo power cord.
 
-   <img src="https://github.com/Allx92/Digitization-Playbook/blob/main/images/Removal%20Lemo%20Cord%20.png" alt="Lemo Cord Removal" width="400" height="400">
+<figure markdown>
+![Preflight Proc 1](https://github.com/Allx92/Digitization-Playbook/blob/main/images/Removal%20Lemo%20Cord%20.png){ width="550px" data-title="Base Characteristics" data-description=".custom-desc1"}
+<figcaption>Base Characteristics</figcaption>
+</figure>
+<div class="glightbox-desc custom-desc1">
+  <p>Base Characteristics</p>
+</div>
 
 8. **Turn Off LED Lights:**
     To turn off the LED lights, find the switch on the black power bank and flip it to the “off” position.
