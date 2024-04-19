@@ -125,8 +125,6 @@ date: 2024-04-04
     !!! note
         The following guide provides instructions on how to export images. This workstation includes essentially the same process with a few highlighted additions below.
         
-        <span style="color:blue">**NOTE**: Any additional changes to this file will be in colored in **blue text**
-
     This section will outline the steps for exporting and renaming the processed object using the DT Versa It ensures name consistency, high-quality export format, and organized storage of the digitized book page images.
 
     **Follow the steps described below to successfully execute the export process.**
