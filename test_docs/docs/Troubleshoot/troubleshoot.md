@@ -19,7 +19,7 @@ This guide will assist the operator in troubleshooting common problems associate
 **Issue Description**: At times, while operating the device, you might notice that your Live View shows a green tint.
 
 <figure markdown>
-![Preflight Proc 1](https://github.com/Allx92/Digitization-Playbook/blob/main/images/Green%20tint%20.png){ width="550px" data-title="Base Characteristics" data-description=".custom-desc1"}
+![Preflight Proc 1](images/Green tint .png){ width="550px" data-title="Base Characteristics" data-description=".custom-desc1"}
 <figcaption>Base Characteristics</figcaption>
 </figure>
 <div class="glightbox-desc custom-desc1">
@@ -39,7 +39,7 @@ This guide will assist the operator in troubleshooting common problems associate
 ### 2. Station 2 (Red Colour from LCC Board Capture and Workspace Issues):
 
 <figure markdown>
-![Preflight Proc 1](https://github.com/Allx92/Digitization-Playbook/blob/main/images/Red%20Color%20Cast%20.jpg){ width="550px" data-title="Base Characteristics" data-description=".custom-desc1"}
+![Preflight Proc 1](images/Red Color Cast .jpg){ width="550px" data-title="Base Characteristics" data-description=".custom-desc1"}
 <figcaption>Base Characteristics</figcaption>
 </figure>
 <div class="glightbox-desc custom-desc1">
@@ -68,7 +68,7 @@ This guide will assist the operator in troubleshooting common problems associate
 **Solution 2 (Computer)**:
 
 <figure markdown>
-![Preflight Proc 1](https://github.com/Allx92/Digitization-Playbook/blob/main/images/Restart%20Computer%202%20.png){ width="550px" data-title="Base Characteristics" data-description=".custom-desc1"}
+![Preflight Proc 1](images/Restart Computer 2 .png){ width="550px" data-title="Base Characteristics" data-description=".custom-desc1"}
 <figcaption>Base Characteristics</figcaption>
 </figure>
 <div class="glightbox-desc custom-desc1">
