@@ -37,7 +37,7 @@ date: 2024-04-09
     Carefully put the lens cap back on the Camera to protect the lens from any physical damage.
 
 <figure markdown>
-![Preflight Proc 1](https://github.com/Allx92/Digitization-Playbook/blob/main/images/Lens%20Cap.jpeg){ width="550px" data-title="Base Characteristics" data-description=".custom-desc1"}
+![Preflight Proc 1](images/Lens Cap.jpeg){ width="550px" data-title="Base Characteristics" data-description=".custom-desc1"}
 <figcaption>Base Characteristics</figcaption>
 </figure>
 <div class="glightbox-desc custom-desc1">
@@ -48,7 +48,7 @@ date: 2024-04-09
     To switch off the camera, pull out the lemo power cord.
 
 <figure markdown>
-![Preflight Proc 1](https://github.com/Allx92/Digitization-Playbook/blob/main/images/Removal%20Lemo%20Cord%20.png){ width="550px" data-title="Base Characteristics" data-description=".custom-desc1"}
+![Preflight Proc 1](images/Removal Lemo Cord .png){ width="550px" data-title="Base Characteristics" data-description=".custom-desc1"}
 <figcaption>Base Characteristics</figcaption>
 </figure>
 <div class="glightbox-desc custom-desc1">
