@@ -36,6 +36,7 @@ The following terminal commands will guide you in setting up and running `mkdocs
     * Files and directories with names which begin with a dot (for example: .foo.md or .bar/baz.md) are ignored by MkDocs. This can be overridden with the exclude_docs config.
 
 ## Other Useful Commands
+<div class="annotate" markdown>
 - mkdocs
     - `mkdocs new [dir-name]` - Create a new project.
     - `mkdocs serve` - Start the live-reloading docs server.
@@ -44,7 +45,12 @@ The following terminal commands will guide you in setting up and running `mkdocs
 - mkdocs-material
     - `pip show mkdocs-material` - Show the currently installed version
     - `pip install --upgrade --force-reinstall mkdocs-material` - Upgrade to the latest version
-
+- Terminal git
+    - The default editor in your terminal is `vi`.
+    - ++i+enter++ will allow you to type and edit information.
+    - ++escape++ followed  by ++colon+w+q+enter++ or ++colon+x+enter++(1) will allow you to save and exit.
+</div>
+1.  ++colon+x++ saves/writes changes to the file only if it has been modified while ++colon+w+q++ changes the modification time no matter what.
 
 ## YAML Configuration
 
