@@ -19,7 +19,7 @@ This guide will assist the operator in troubleshooting common problems associate
 **Issue Description**: At times, while operating the device, you might notice that your Live View shows a green tint.
 
 <figure markdown>
-![Preflight Proc 2](../Assets/Images/Pre_Flight/Green_tint.png){ width="600px" data-title="Live View" data-description=".custom-desc2"}
+![Preflight Proc 2](../Assets/Images/Pre_Flight/Green_tint.png){ width="5500px" data-title="Live View" data-description=".custom-desc2"}
 <figcaption>Green Tint</figcaption>
 </figure>
 <div class="glightbox-desc custom-desc2">
@@ -39,14 +39,15 @@ This guide will assist the operator in troubleshooting common problems associate
 
 <img src="" alt="Img 2" width="600" height="500">
 <figure markdown>
-![Preflight Proc 2](../Assets/Images/Pre_Flight/Green_tint.png){ width="600px" data-title="Live View" data-description=".custom-desc2"}
-<figcaption>Green Tint</figcaption>
+![Preflight Proc 2](../Assets/Images/Pre_Flight/Red_Color_Cast.png){ width="550px" data-title="Live View" data-description=".custom-desc2"}
+<figcaption>Red Colour</figcaption>
 </figure>
 <div class="glightbox-desc custom-desc2">
-    <p>Green Tint</p>
+    <p>Red Colour</p>
 </div>
 
-**Issue Description**: The image appears to be clipping and there might be sudden spurts of red colour. Also, the colour readouts often record incorrect measurements. When you try to correct this, a persistent 'Red Cast' appears  whenever you try to change exposure settings. In addition to this, the workspace does not retain its settings and every time you reopen it, you have to add the System Check Tool and Export Tool.
+
+**Issue Description**: The image appears to be clipping (excessive light) and there might be sudden spurts of red colour. Also, the colour readouts often record incorrect measurements. When you try to correct this, a persistent 'Red Cast' appears  whenever you try to change exposure settings. In addition to this, the workspace does not retain its settings and every time you reopen it, you have to add the System Check Tool and Export Tool.
 
 **Current Solution Status**: Currently, there is no definitive solution for this issue. However, we are researching and working tirelessly to solve this problem. We advise you to keep your software updated for any future fixes.
 
@@ -56,13 +57,10 @@ This guide will assist the operator in troubleshooting common problems associate
 
 **Issue Description**: Sometimes, the workstation may not detect the camera. This can happen due to several reasons like hardware malfunctioning, issues with the software's camera drivers, or the camera might not be securely connected to the workstation.
 
-<img src="" alt="Img 3" width="600" height="500">
-
 **Troubleshooting Steps**:
 
 **Solution 1 (Camera)**:
 
-<img src="" alt="Img 4" width="600" height="500">
 - The first solution might sound simple, but it is quite effective.
 - Power off the camera by disconnecting it from the power source (unplug)
 - After waiting for a moment, power it on again. This will reset the camera's internal systems and can often correct any detection issues.
@@ -70,7 +68,7 @@ This guide will assist the operator in troubleshooting common problems associate
 **Solution 2 (Computer)**:
 
 <figure markdown>
-![Preflight Proc 2](../Assets/Images/Restart_Computer_2.png){ width="600px" data-title="Restart Computer" data-description=".custom-desc2"}
+![Preflight Proc 2](../Assets/Images/Restart_Computer_2.png){ width="550px" data-title="Restart Computer" data-description=".custom-desc2"}
 <figcaption>Restart Computer</figcaption>
 </figure>
 <div class="glightbox-desc custom-desc2">

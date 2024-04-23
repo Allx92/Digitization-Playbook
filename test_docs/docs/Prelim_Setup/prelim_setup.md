@@ -42,7 +42,7 @@ date: 2024-04-04
       <p>Lorem ipsum.</p>
     </div>
 
-    2. **Down Lights:**
+     **Down Lights:**
     - Turn on the down lights for the workstation from the power supply labeled "Digital Transitions Heritage".
     - Locate the power switch on the extreme left, labeled "POWER."
     - When turning on the power supply, confirm the following:
@@ -107,7 +107,7 @@ date: 2024-04-04
       <p>Lorem ipsum.</p>
     </div>
 
-    6. **Computer Monitors:**
+     **Computer Monitors:**
     - Ensure the power cable is plugged into the back of the monitor.
     - Turn on the monitor by using the switch located at the bottom of the cable.
 
@@ -161,7 +161,7 @@ date: 2024-04-04
             - Details: 50
             - Colour: 40
 
-    6. **Retrieving Materials:** Locate the Librarian (or the appropriate personnel) for assistance in retrieving the materials you'll be digitizing.
+    6. **Retrieving Materials:** Locate the Porter (or the appropriate personnel) for assistance in retrieving the materials you'll be digitizing.
 
     7. **Material Placement:** Place the materials you'll be working with in the designated cradle.
 
@@ -194,7 +194,7 @@ date: 2024-04-04
     3. **Remove Lens Cap**: Remove the lens cap from the 120mm macro lens.
 
     ## Camera Settings
-    1. **Connect Lens Cord**: Plug the silver lens cord with the **red dot** into the back of the camera.
+    1. **Connect Lemo Cord**: Plug the silver lens cord with the **red dot** into the back of the camera.
 
     ## Light Settings
     1. **Turn on LED Light**:
@@ -264,7 +264,7 @@ date: 2024-04-04
 
     **Next Steps**
 
-    * Refer to the "Get Documents Librarian -> Spin Off -> Material Retrievers -> Target in Cradle" section of a separate document for instructions on retrieving and placing materials onto the scanner bed.
+    * Clarify with the Porter/Material Retrievers for instructions on retrieving and placing materials onto the scanner bed.
 
     **Additional Notes**
     

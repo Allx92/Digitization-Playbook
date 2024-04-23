@@ -107,13 +107,14 @@ date: 2024-04-04
 
         <figure markdown>
             ![Preflight Proc 1](../Assets/Images/Pre_Flight/PreFlight_009.png){ width="550px" data-title="CreateLCC" data-description=".custom-desc1"}
-            <figcaption>Create LCC</figcaption>
+           
+    7. **Create LCC:** In the LCC panel, select *Create LCC* and capture the target.
+
+     <figcaption>Create LCC</figcaption>
             </figure>
             <div class="glightbox-desc custom-desc1">
               <p>Create LCC</p>
             </div>
-
-    7. **Create LCC:** In the LCC panel, select *Create LCC* and capture the target.  
 
     ## White Balance
     This process adjusts the colour of the photos captured to accurately represent how they appear in real life under the LCC lighting conditions. Ensuring whites appear truly white rather than a tinted colour.
@@ -225,15 +226,15 @@ date: 2024-04-04
 
             !!! note "NOTE"
                 When zooming in on the purple icons check for crisp, well-defined edges, and fine details with no blurring or softness. 
-        <figure markdown>
+       
+    2. **Apply Guidelines:** Navigate to *Guides*, under the *System Check tab* to apply guidelines and position the guidelines, so the film target is in the center of the guidelines.
+    <figure markdown>
           ![Preflight Proc 1](../Assets/Images/Pre_Flight/dt_FlatBed/FB_Guidelines.png){ width="550px" data-title="Guidelines" data-description=".custom-desc1"}
           <figcaption>Guidelines</figcaption>
           </figure>
           <div class="glightbox-desc custom-desc1">
             <p>Apply guidelines</p>
           </div>
-
-    2. **Apply Guidelines:** Navigate to *Guides*, under the *System Check tab* to apply guidelines and position the guidelines, so the film target is in the center of the guidelines.
         - **Capture Target:** Capture to save setting.  
 
     3. **Remove Transmissive Target:** Once guidelines are applied, remove the transmissive target from the target tray.
@@ -243,15 +244,15 @@ date: 2024-04-04
         !!! note "Note"
             If the light doesn't cover all four corners of the capture area use the sliders on the the flatbed bench to adjust the light. 
 
-        <figure markdown>
+    5. **Adjust Color Readout:** Go to the cursor toolbar and select **Add Color Readout**. Apply the color readout to the middle of the capture area in *Live View*. Adjust the shutter speed to get as close to 95 and adjust the exposure slidder to ensure *Readout* is 95.
+
+     <figure markdown>
         ![Preflight Proc 1](../Assets/Images/Pre_Flight/dt_FlatBed/FB_ColorReadout.png){ width="550px" data-title="ColorReadout" data-description=".custom-desc1"}
         <figcaption>Color Readout</figcaption>
         </figure>
         <div class="glightbox-desc custom-desc1">
           <p>Color Readout.</p>
         </div>
-
-    5. **Adjust Color Readout:** Go to the cursor toolbar and select **Add Color Readout**. Apply the color readout to the middle of the capture area in *Live View*. Adjust the shutter speed to get as close to 95 and adjust the exposure slidder to ensure *Readout* is 95.
     
         !!! note
             If Readouts are 100, it is too high. Change shutter speed and aperture until Readouts read 95 or close to 95.

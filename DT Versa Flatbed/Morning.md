@@ -24,7 +24,7 @@ Digitisation Team: Morning Routine Preparation
 3. **Remove Lens Cap**: Remove the lens cap from the 120mm macro lens.
 
 ## Camera Settings
-1. **Connect Lens Cord**: Plug the silver lens cord with the **red dot** into the back of the camera.
+1. **Connect Lemo Cord**: Plug the silver lens cord with the **red dot** into the back of the camera.
 
 ## Light Settings
 1. **Turn on LED Light**:
@@ -65,7 +65,7 @@ Digitisation Team: Morning Routine Preparation
 ![alt text](https://github.com/Allx92/Digitization-Playbook/blob/main/DT%20Versa%20Flatbed/Images/Sharpening%20%26%20Reduction%20.png)  
 
 **Next Steps**
-* Refer to the "Get Documents Librarian -> Spin Off -> Material Retrievers -> Target in Cradle" section of a separate document for instructions on retrieving and placing materials onto the scanner bed.
+* Clarify with the Porter/Material Retriever for instructions on retrieving and placing materials onto the scanner bed.
 
 Additional Notes
 * This document serves as a general guideline. Specific adjustments might be required depending on the type of material being scanned.

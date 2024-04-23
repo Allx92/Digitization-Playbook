@@ -29,7 +29,7 @@ Live View provides a real-time display of what the camera lens is capturing, all
 
 <img src="images/5ResolutionLines.png" alt="resolution lines" width="550" height="650">
 
-6. **Capture:** Press capture to confirm adjustments.
+6. **Capture to Confirm:** Press capture to confirm adjustments.
 
 ## LCC board (white board) 
 The LCC board is used along with the software to correct lens cast, which is produced by uneven lighting across the frame. The LCC board is placed parallel above the glass plate matching the angle of the object being photograph. 
@@ -46,14 +46,16 @@ The LCC board must fill the frame before capturing.
 
 4. **Add Colour Readout:** Go to the cursor toolbar and select **Add Color Readout**. Add the *Color Readouts* to the four corners and middle of the LCC board, ensure the *Color Readout* in the middle of the target reads **60** or **70**.
 
-<img src="images/PreFlight_008.png" alt="Color Readout" width="550" height="650">
-
 5. **Check Readouts:** Make sure *Readouts* in all four corners match the middle.
 6. **Adjust Shutter Speed:** If readouts exceeds 70 make the necessary changes adjustments to the shutter speed.
-   
-<img src="images/PreFlight_009.png" alt="Color Readout" width="550" height="650">
 
-7. **Create LCC:** In the LCC panel, select *Create LCC* and capture the target.  
+   <img src="https://github.com/Allx92/Digitization-Playbook/blob/main/images/Shutter%20Speed%20Revised%20.png" alt="Color Readout" width="550" height="650">
+   
+   - NB:The dt BC100 workstation uses a 72mm Lens (Books and Bound Material) 
+   
+7. **Create LCC:** In the LCC panel, select *Create LCC* and capture the target.
+
+<img src="images/PreFlight_009.png" alt="Color Readout" width="550" height="650">  
 
 ## White balance
 This process adjusts the colour of the photos captured to accurately represent how they appear in real life under the LCC lighting conditions. Ensuring whites appear truly white rather than a tinted colour.
@@ -85,7 +87,7 @@ After Color Readouts
 > Ensure that Readouts are placed in the middle of the color patch for an accurate Readout.
 
 
-<img src="images/ShutterAdjustments.png" alt="Shutter adjustment" width="250" height="350">
+<img src="https://github.com/Allx92/Digitization-Playbook/blob/main/images/Shutter%20Speed%20Adjustment%20.png" alt="Shutter adjustment" width="250" height="350">
 
 3. **Adjust Shutter Speed:** Navigate to the camera settings in the Pre-Flight tab to change the shutter speed to match the correct values, typically adjusting to 1/20 or 1/5 (trigger speed).
 4. **Capture:** Capture to save the setting adjustments as you go.  
