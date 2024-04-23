@@ -14,11 +14,11 @@ date: 2024-04-04
     The base characteristics are how the system is supposed to be configured at the start of the Pre-Flight.
 
     <figure markdown>
-    ![Preflight Proc 1](../Assets/Images/Pre_Flight/PreFlight_001.png){ width="550px" data-title="Base Characteristics" data-description=".custom-desc1"}
+    ![Preflight Proc 1](../Assets/Images/Pre_Flight/PreFlight_001.png){ width="550px" data-title="Base Characteristics" data-description=".custom-desc1" data-gallery="BC 100"}
     <figcaption>Base Characteristics</figcaption>
     </figure>
     <div class="glightbox-desc custom-desc1">
-      <p>Base Characteristics</p>
+      <p></p>
     </div>
 
     1. To begin, click on the **capture button** under the Pre-Flight tool tab, located in the Camera settings.
@@ -32,22 +32,21 @@ date: 2024-04-04
     Live View provides a real-time display of what the camera lens is capturing, allowing for adjustments to composition and sharpness. This ensures that the final image meets desired standards before capture.
 
     <figure markdown>
-    ![Preflight Proc 2](../Assets/Images/Pre_Flight/PreFlight_003.png){ width="550px" data-title="Live View" data-description=".custom-desc2"}
+    ![Preflight Proc 2](../Assets/Images/Pre_Flight/PreFlight_003.png){ width="550px" data-title="Live View" data-description=".custom-desc2" data-gallery="BC 100"}
     <figcaption>Live View</figcaption>
     </figure>
     <div class="glightbox-desc custom-desc2">
-      <p>Live View</p>
+      <p></p>
     </div>
 
     1. To enter **Live View** mode click on the **Live View button** under the Pre-Flight tool tab.
 
         <figure markdown>
-        ![Preflight Proc 3](../Assets/Images/Pre_Flight/PreFlight_004.png){ width="550px" data-title="Auto-Focus" data-description=".custom-desc3"}
+        ![Preflight Proc 3](../Assets/Images/Pre_Flight/PreFlight_004.png){ width="550px" data-title="Auto-Focus" data-description=".custom-desc3" data-gallery="BC 100"}
         <figcaption>Auto-Focus</figcaption>
         </figure>
         <div class="glightbox-desc custom-desc3">
-          <p>Auto-Focus</p>
-          <p>Lorem ipsum.</p>
+          <p></p>
         </div>
 
     2. **Set Camera Resolution:** Under the **Camera Focus** panel, set the camera *Resolution* to *600-PPI*.
@@ -56,11 +55,11 @@ date: 2024-04-04
     5. **Zoom in:** Using the zoom slider or keyboard shortcuts, zoom in to the 600 mark on the target until the 5 resolution lines are visible.
 
         <figure markdown>
-        ![Preflight Proc 4](../Assets/Images/Pre_Flight/Resolution_Lines.png){ width="550px" data-title="Resolution Lines" data-description=".custom-desc4"}
+        ![Preflight Proc 4](../Assets/Images/Pre_Flight/Resolution_Lines.png){ width="550px" data-title="Resolution Lines" data-description=".custom-desc4" data-gallery="BC 100"}
         <figcaption>Resolution Lines</figcaption>
         </figure>
         <div class="glightbox-desc custom-desc4">
-          <p>Resolution Lines</p>
+          <p></p>
         </div>
 
     6. **Capture:** Press capture to confirm adjustments.
@@ -73,70 +72,66 @@ date: 2024-04-04
     1. **Prepare LCC board:** Get the LCC board.
 
         <figure markdown>
-        ![Preflight Proc 5](../Assets/Images/Pre_Flight/PreFlight_006.png){ width="550px" data-title="LĊĊ Board" data-description=".custom-desc5"}
+        ![Preflight Proc 5](../Assets/Images/Pre_Flight/PreFlight_006.png){ width="550px" data-title="LĊĊ Board" data-description=".custom-desc5" data-gallery="BC 100"}
         <figcaption>LCC Board</figcaption>
         </figure>
         <div class="glightbox-desc custom-desc5">
           <p>LCC Board</p>
-          <p>Lorem ipsum.</p>
         </div>
 
     2. **Position Board:** Place the board parallel to the glass, and ensure the LCC board covers the Live View frame.
     3. **Capture:** Press Capture in the toolbar or use the keyboard shortcut.
 
         <figure markdown>
-        ![Preflight Proc 6](../Assets/Images/Pre_Flight/AddColorReadout.png){ width="250px" data-title="Add Color Readout" data-description=".custom-desc6"}
+        ![Preflight Proc 6](../Assets/Images/Pre_Flight/AddColorReadout.png){ width="250px" data-title="Add Color Readout" data-description=".custom-desc6" data-gallery="BC 100"}
         <figcaption>Add Color Readout</figcaption>
         </figure>
         <div class="glightbox-desc custom-desc6">
-          <p>Add Color Readout</p>
+          <p></p>
         </div>
 
     4. **Add Color Readout:** Go to the cursor toolbar and select **Add Color Readout**. Add the *Color Readouts* to the four corners and middle of the LCC board, ensure the *Color Readout* in the middle of the target reads **60** or **70**.
 
         <figure markdown>
-        ![Preflight Proc 7](../Assets/Images/Pre_Flight/PreFlight_008.png){ width="550px" data-title="Color Readout" data-description=".custom-desc7"}
+        ![Preflight Proc 7](../Assets/Images/Pre_Flight/PreFlight_008.png){ width="550px" data-title="Color Readout" data-description=".custom-desc7" data-gallery="BC 100"}
         <figcaption>Color Readout</figcaption>
         </figure>
         <div class="glightbox-desc custom-desc7">
-          <p>Color Readout</p>
+          <p></p>
         </div>
 
     5. **Check Readouts:** Make sure *Readouts* in all four corners match the middle.
     6. **Adjust Shutter Speed:** If readouts exceed 70 make the necessary adjustments to the shutter speed.
 
         <figure markdown>
-            ![Preflight Proc 1](../Assets/Images/Pre_Flight/PreFlight_009.png){ width="550px" data-title="CreateLCC" data-description=".custom-desc1"}
+        ![Preflight Proc 1](../Assets/Images/Pre_Flight/PreFlight_009.png){ width="550px" data-title="CreateLCC" data-description=".custom-desc8"}
+        <figcaption>Create LCC</figcaption>
+        </figure>
+        <div class="glightbox-desc custom-desc8">
+          <p></p>
+        </div>
            
     7. **Create LCC:** In the LCC panel, select *Create LCC* and capture the target.
-
-     <figcaption>Create LCC</figcaption>
-            </figure>
-            <div class="glightbox-desc custom-desc1">
-              <p>Create LCC</p>
-            </div>
 
     ## White Balance
     This process adjusts the colour of the photos captured to accurately represent how they appear in real life under the LCC lighting conditions. Ensuring whites appear truly white rather than a tinted colour.
 
-    <figure markdown>
-    ![Preflight Proc 9](../Assets/Images/Pre_Flight/DeleteReadouts.png){ width="490px" data-title="Delete Readouts" data-description=".custom-desc9"}
-    <figcaption>Delete Readouts</figcaption>
-    </figure>
-    <div class="glightbox-desc custom-desc9">
-      <p>Delete Readouts</p>
-      <p>Lorem ipsum.</p>
-    </div>
+      <figure markdown>
+      ![Preflight Proc 9](../Assets/Images/Pre_Flight/DeleteReadouts.png){ width="490px" data-title="Delete Readouts" data-description=".custom-desc9" data-gallery="BC 100"}
+      <figcaption>Delete Readouts</figcaption>
+      </figure>
+      <div class="glightbox-desc custom-desc9">
+        <p></p>
+      </div>
       
     1. **Delete Readouts:** click with the ++right-button++ on one of the readouts and select delete all to remove.
 
         <figure markdown>
-        ![Preflight Proc 10](../Assets/Images/Pre_Flight/WhiteBalance.png){ width="450px" data-title="White Balance" data-description=".custom-desc10"}
+        ![Preflight Proc 10](../Assets/Images/Pre_Flight/WhiteBalance.png){ width="450px" data-title="White Balance" data-description=".custom-desc10" data-gallery="BC 100"}
         <figcaption>White Balance</figcaption>
         </figure>
         <div class="glightbox-desc custom-desc10">
-          <p>White Balance</p>
-          <p>Lorem ipsum.</p>
+          <p></p>
         </div>
 
     2. **Add white balance:** Under *White Balance* in the left pane select the picker (eyedropper) to apply the **White Balance**.
@@ -150,22 +145,20 @@ date: 2024-04-04
     2. **Add Readouts:** In the cursor tools section, select the *color editor tool*, and from the dropdown list, select *Add Color Readout* to add readouts to first 6 patches (Patch 70 - 95)
 
         <figure markdown>
-        ![Preflight Proc 11](../Assets/Images/Pre_Flight/BeforeReadouts.png){ width="650px" data-title="Before Readouts" data-description=".custom-desc11"}
+        ![Preflight Proc 11](../Assets/Images/Pre_Flight/BeforeReadouts.png){ width="650px" data-title="Before Readouts" data-description=".custom-desc11" data-gallery="BC 100"}
         <figcaption>Before Readouts</figcaption>
         </figure>
         <div class="glightbox-desc custom-desc11">
-          <p>Before Readouts</p>
-          <p>Lorem ipsum.</p>
+          <p></p>
         </div>
     
 
         <figure markdown>
-        ![Preflight Proc 12](../Assets/Images/Pre_Flight/Readouts.png){ width="650px" data-title="Color Readouts" data-description=".custom-desc12"}
+        ![Preflight Proc 12](../Assets/Images/Pre_Flight/Readouts.png){ width="650px" data-title="Color Readouts" data-description=".custom-desc12" data-gallery="BC 100"} 
         <figcaption>Color Readouts</figcaption>
         </figure>
         <div class="glightbox-desc custom-desc12">
-          <p>Color Readouts</p>
-          <p>Lorem ipsum.</p>
+          <p></p>
         </div>
 
 
@@ -173,12 +166,11 @@ date: 2024-04-04
             Ensure that Readouts are placed in the middle of the color patch for an accurate Readout.
 
         <figure markdown>
-        ![Preflight Proc 13](../Assets/Images/Pre_Flight/ShutterAdjustments.png){ width="250px" data-title="Shutter Adjustment" data-description=".custom-desc13"}
+        ![Preflight Proc 13](../Assets/Images/Pre_Flight/ShutterAdjustments.png){ width="250px" data-title="Shutter Adjustment" data-description=".custom-desc13" data-gallery="BC 100"}
         <figcaption>Shutter Adjustment</figcaption>
         </figure>
         <div class="glightbox-desc custom-desc13">
-          <p>Shutter Adjustment</p>
-          <p>Lorem ipsum.</p>
+          <p></p>
         </div>
 
     3. **Adjust Shutter Speed:** Navigate to the camera settings in the Pre-Flight tab to change the shutter speed to match the correct values, typically adjusting to 1/20 or 1/5 (trigger speed).
@@ -192,11 +184,11 @@ date: 2024-04-04
     The base characteristics are how the system is supposed to be configured at the start of the preflight.
 
     <figure markdown>
-    ![Preflight Proc 1](../Assets/Images/Pre_Flight/dt_FlatBed/FB_BaseCharacteristics.png){ width="550px" data-title="Base Characteristics" data-description=".custom-desc1"}
+    ![Preflight Proc 1](../Assets/Images/Pre_Flight/dt_FlatBed/FB_BaseCharacteristics.png){ width="550px" data-title="Base Characteristics" data-description=".custom-desc1" data-gallery="Flatbed"}
     <figcaption>Base Characteristics</figcaption>
     </figure>
     <div class="glightbox-desc custom-desc1">
-      <p>Base Characteristics</p>
+      <p></p>
     </div>
 
     1. To begin, click on the **capture button** under the Pre-Flight tool tab, located in the Camera settings.
@@ -212,11 +204,11 @@ date: 2024-04-04
     Live View provides a real-time display of what the camera lens is capturing, allowing for adjustments to composition and sharpness. This ensures that the final image meets desired standards before capture.
 
       <figure markdown>
-      ![Preflight Proc 1](../Assets/Images/Pre_Flight/dt_FlatBed/FB_Focus.png){ width="550px" data-title="Adjust Focus" data-description=".custom-desc1"}
-      <figcaption>Ajust Focus</figcaption>
+      ![Preflight Proc 1](../Assets/Images/Pre_Flight/dt_FlatBed/FB_Focus.png){ width="550px" data-title="Adjust Focus" data-description=".custom-desc1" data-gallery="Flatbed"}
+      <figcaption>Adjust Focus</figcaption>
       </figure>
       <div class="glightbox-desc custom-desc1">
-        <p>Adjust focus</p>
+        <p></p>
       </div>
 
     1. **Set Resolution PPI** Open *Live View* to set the *Resolution PPI* to 4000 or 5000.
@@ -229,11 +221,11 @@ date: 2024-04-04
        
     2. **Apply Guidelines:** Navigate to *Guides*, under the *System Check tab* to apply guidelines and position the guidelines, so the film target is in the center of the guidelines.
     <figure markdown>
-          ![Preflight Proc 1](../Assets/Images/Pre_Flight/dt_FlatBed/FB_Guidelines.png){ width="550px" data-title="Guidelines" data-description=".custom-desc1"}
+          ![Preflight Proc 1](../Assets/Images/Pre_Flight/dt_FlatBed/FB_Guidelines.png){ width="550px" data-title="Guidelines" data-description=".custom-desc1" data-gallery="Flatbed"}
           <figcaption>Guidelines</figcaption>
           </figure>
           <div class="glightbox-desc custom-desc1">
-            <p>Apply guidelines</p>
+            <p></p>
           </div>
         - **Capture Target:** Capture to save setting.  
 
@@ -247,11 +239,11 @@ date: 2024-04-04
     5. **Adjust Color Readout:** Go to the cursor toolbar and select **Add Color Readout**. Apply the color readout to the middle of the capture area in *Live View*. Adjust the shutter speed to get as close to 95 and adjust the exposure slidder to ensure *Readout* is 95.
 
      <figure markdown>
-        ![Preflight Proc 1](../Assets/Images/Pre_Flight/dt_FlatBed/FB_ColorReadout.png){ width="550px" data-title="ColorReadout" data-description=".custom-desc1"}
+        ![Preflight Proc 1](../Assets/Images/Pre_Flight/dt_FlatBed/FB_ColorReadout.png){ width="550px" data-title="ColorReadout" data-description=".custom-desc1" data-gallery="Flatbed"}
         <figcaption>Color Readout</figcaption>
         </figure>
         <div class="glightbox-desc custom-desc1">
-          <p>Color Readout.</p>
+          <p></p>
         </div>
     
         !!! note
@@ -259,11 +251,11 @@ date: 2024-04-04
 
     
     <figure markdown>
-            ![Preflight Proc 1](../Assets/Images/Pre_Flight/dt_FlatBed/FB_LCC.png){ width="550px" data-title="CreateLCC" data-description=".custom-desc1"}
+            ![Preflight Proc 1](../Assets/Images/Pre_Flight/dt_FlatBed/FB_LCC.png){ width="550px" data-title="CreateLCC" data-description=".custom-desc1" data-gallery="Flatbed"}
             <figcaption>Create LCC</figcaption>
             </figure>
             <div class="glightbox-desc custom-desc1">
-              <p>Create LCC</p>
+              <p></p>
             </div>
     6. **Create LCC:** In the LCC panel, select *Create LCC* and capture the target. 
 
@@ -277,4 +269,4 @@ date: 2024-04-04
     **Exposure:**
     Exposure adjustments are based on the amount of light that reaches the camera sensor, and is determined by the shutter speed, aperture and ISO.
 
-    **Adjust Exposure:** In the *PreFlight tab, under *Exposure panel*, select the *Exposure slidder* to adjust the exposure, when necessary.  
+    **Adjust Exposure:** In the *PreFlight tab, under *Exposure panel*, select the *Exposure slider* to adjust the exposure, when necessary.  

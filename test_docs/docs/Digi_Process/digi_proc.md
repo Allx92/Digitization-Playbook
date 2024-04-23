@@ -35,34 +35,31 @@ date: 2024-04-04
     3. **Crop and Straighten:**
 
     <figure markdown>
-    ![Crop Tools](../Assets/Images/Digi_Process/cropTools.png){ width="350px" data-title="Crop Tools from Capture One" data-description=".custom-desc1"}
+    ![Crop Tools](../Assets/Images/Digi_Process/cropTools.png){ width="350px" data-title="Crop Tools from Capture One" data-description=".custom-desc1" data-gallery="BC 100"}
     <figcaption>Crop Tools from Capture One</figcaption>
     </figure>
     <div class="glightbox-desc custom-desc1">
-      <p>Lorem ipsum</p>
-      <p>Lorem ipsum.</p>
+      <p></p>
     </div>
 
     - Click on the *crop tool* located in the cursor tools.
 
     <figure markdown>
-    ![Crop Ratios](../Assets/Images/Digi_Process/cropRatio.png){ width="350px" data-title="Crop Ratio from Capture One" data-description=".custom-desc2"}
+    ![Crop Ratios](../Assets/Images/Digi_Process/cropRatio.png){ width="350px" data-title="Crop Ratio from Capture One" data-description=".custom-desc2" data-gallery="BC 100"}
     <figcaption>Crop Ratio from Capture One</figcaption>
     </figure>
     <div class="glightbox-desc custom-desc2">
-      <p>Lorem ipsum</p>
-      <p>Lorem ipsum.</p>
+      <p></p>
     </div>
 
     - Set *Crop Ratio* to *unconstrained* for flexibility. 
 
     <figure markdown>
-    ![Autocorrect](../Assets/Images/Digi_Process/AutoCorrect.png){ width="350px" data-title="Autocorrect from Capture One" data-description=".custom-desc3"}
+    ![Autocorrect](../Assets/Images/Digi_Process/AutoCorrect.png){ width="350px" data-title="Autocorrect from Capture One" data-description=".custom-desc3" data-gallery="BC 100"}
     <figcaption>Autocorrect from Capture One</figcaption>
     </figure>
     <div class="glightbox-desc custom-desc3">
-      <p>Lorem ipsum</p>
-      <p>Lorem ipsum.</p>
+      <p></p>
     </div>
 
     - Set *Crop Image* to *Auto Crop* to automatically crop images.
@@ -98,38 +95,33 @@ date: 2024-04-04
     1. **Enter Production Tab:** Navigate to the production tab to make adjustments and prepare the images for the next steps.
     2. **Image Selection:** In the browser view, left-click on the first image for production, then hold down the ++shift++ key and use the mouse to select the last image to choose all the images in the browser view.
     3. **Crop and Straighten:**
-    <img src="images/cropTools.png" alt="Crop Tool" width="350" height="50">
+  
     <figure markdown>
-    ![Template_Name](https://dummyimage.com/600x400/eee/aaa){ width="350px" data-title="Template Title" data-description=".custom-desc4"}
-    <figcaption>Template Caption</figcaption>
+    ![Crop Tools](../Assets/Images/Digi_Process/cropTools.png){ width="350px" data-title="Crop Tools from Capture One" data-description=".custom-desc4" data-gallery="Flatbed"}
+    <figcaption>Crop Tools from Capture One</figcaption>
     </figure>
     <div class="glightbox-desc custom-desc4">
-      <p>Template description 1</p>
-      <p>Template description 2</p>
+      <p></p>
     </div>
 
     - Click on the *crop tool* located in the cursor tools.
 
-    <img src="images/cropRatio.png" alt="Crop" width="350" height="150">
     <figure markdown>
-    ![Template_Name](https://dummyimage.com/600x400/eee/aaa){ width="350px" data-title="Template Title" data-description=".custom-desc5"}
-    <figcaption>Template Caption</figcaption>
+    ![Crop Ratios](../Assets/Images/Digi_Process/cropRatio.png){ width="350px" data-title="Crop Ratio from Capture One" data-description=".custom-desc5" data-gallery="Flatbed"}
+    <figcaption>Crop Ratio from Capture One</figcaption>
     </figure>
     <div class="glightbox-desc custom-desc5">
-      <p>Template description 1</p>
-      <p>Template description 2</p>
+      <p></p>
     </div>
 
     - Set *Crop Ratio* to *unconstrained* for flexibility. 
 
-    <img src="images/AutoCorrect.png" alt="Crop Tool" width="350" height="170">
     <figure markdown>
-    ![Template_Name](https://dummyimage.com/600x400/eee/aaa){ width="350px" data-title="Template Title" data-description=".custom-desc6"}
-    <figcaption>Template Caption</figcaption>
+    ![Autocorrect](../Assets/Images/Digi_Process/AutoCorrect.png){ width="350px" data-title="Autocorrect from Capture One" data-description=".custom-desc6" data-gallery="Flatbed"}
+    <figcaption>Autocorrect from Capture One</figcaption>
     </figure>
     <div class="glightbox-desc custom-desc6">
-      <p>Template description 1</p>
-      <p>Template description 2</p>
+      <p></p>
     </div>
 
     - Set *Crop Image* to *Auto Crop* to automatically crop images.

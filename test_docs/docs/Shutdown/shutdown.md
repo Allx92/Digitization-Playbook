@@ -9,7 +9,10 @@ date: 2024-04-09
 
 # Guide on Shut Down Process for DT BC100 Scanner and DT Versa Flatbed Scanner
 
->Executing the correct shut down process is crucial for extending the life of your equipment and mitigating unnecessary wear. Follow the steps below to correctly shut down your system:
+!!! note "Note"
+    Executing the correct shut down process is crucial for extending the life of your equipment and mitigating unnecessary wear.
+    
+    Follow the steps below to correctly shut down your system:
 
 ## Steps for Shutting Down
 
@@ -24,35 +27,38 @@ date: 2024-04-09
     - Click on the apple sign and select "Shut Down" from the dropdown menu.
 
 <figure markdown>
-![Preflight Proc 1](images/Shut down .png){ width="550px" data-title="Base Characteristics" data-description=".custom-desc1"}
-<figcaption>Base Characteristics</figcaption>
+![Select Shutdown](../Assets/Images/Shutdown/Shutdown.png){ width="550px" data-title="Shut Down" data-description=".custom-desc1"}
+<figcaption>Shut Down</figcaption>
 </figure>
 <div class="glightbox-desc custom-desc1">
-  <p>Base Characteristics</p>
+  <p></p>
 </div>
 
-    The computer will commence its shutdown sequence. All lights on the computer & keyboard should be off when shut down is complete.
+!!! note ""
+    The computer will commence its shutdown sequence.
+    
+    All lights on the computer & keyboard should be off when shut down is complete.
 
 4. **Handle the Camera Carefully After Use:**
     Carefully put the lens cap back on the Camera to protect the lens from any physical damage.
 
 <figure markdown>
-![Preflight Proc 1](images/Lens Cap.jpeg){ width="550px" data-title="Base Characteristics" data-description=".custom-desc1"}
-<figcaption>Base Characteristics</figcaption>
+![Lens Cap](../Assets/Images/Shutdown/LensCap.jpeg){ width="550px" data-title="Lens Cap" data-description=".custom-desc2"}
+<figcaption>Lens Cap</figcaption>
 </figure>
-<div class="glightbox-desc custom-desc1">
-  <p>Base Characteristics</p>
+<div class="glightbox-desc custom-desc2">
+  <p></p>
 </div>
 
 6. **Turn off Camera's Power Supply:**
     To switch off the camera, pull out the lemo power cord.
 
 <figure markdown>
-![Preflight Proc 1](images/Removal Lemo Cord .png){ width="550px" data-title="Base Characteristics" data-description=".custom-desc1"}
-<figcaption>Base Characteristics</figcaption>
+![Remove Lemo Power Cord](../Assets/Images/Shutdown/RemovalLemoCord.png){ width="550px" data-title="Remove Lemo Power Cord" data-description=".custom-desc3"}
+<figcaption>Remove Lemo Power Cord</figcaption>
 </figure>
-<div class="glightbox-desc custom-desc1">
-  <p>Base Characteristics</p>
+<div class="glightbox-desc custom-desc3">
+  <p></p>
 </div>
 
 8. **Turn Off LED Lights:**
