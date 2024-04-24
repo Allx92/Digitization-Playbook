@@ -19,7 +19,7 @@ This guide will assist the operator in troubleshooting common problems associate
 **Issue Description**: At times, while operating the device, you might notice that your Live View shows a green tint.
 
 <figure markdown>
-![Green Tint](../Assets/Images/Pre_Flight/Green_tint.png){ width="5500px" data-title="Green Tint" data-description=".custom-desc1"}
+![Green Tint](../Assets/Images/Pre_Flight/Green_tint.png){ width="400px" data-title="Green Tint" data-description=".custom-desc1"}
 <figcaption>Green Tint</figcaption>
 </figure>
 <div class="glightbox-desc custom-desc1">
@@ -38,7 +38,7 @@ This guide will assist the operator in troubleshooting common problems associate
 ### 2. Station 2 (Red Colour from LCC Board Capture and Workspace Issues):
 
 <figure markdown>
-![Preflight Proc 2](../Assets/Images/RedColorCast.jpg){ width="600px" data-title="Red Colour Cast" data-description=".custom-desc2"}
+![Preflight Proc 2](../Assets/Images/RedColorCast.jpg){ width="400px" data-title="Red Colour Cast" data-description=".custom-desc2"}
 <figcaption>Red Colour Cast</figcaption>
 </figure>
 <div class="glightbox-desc custom-desc2">
@@ -67,7 +67,7 @@ This guide will assist the operator in troubleshooting common problems associate
 **Solution 2 (Computer)**:
 
 <figure markdown>
-![Preflight Proc 2](../Assets/Images/Restart_Computer_2.png){ width="550px" data-title="Restart Computer" data-description=".custom-desc3"}
+![Preflight Proc 2](../Assets/Images/Restart_Computer_2.png){ width="400px" data-title="Restart Computer" data-description=".custom-desc3"}
 <figcaption>Restart Computer</figcaption>
 </figure>
 <div class="glightbox-desc custom-desc3">
