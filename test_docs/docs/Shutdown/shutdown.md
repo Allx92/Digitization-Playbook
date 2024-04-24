@@ -24,7 +24,7 @@ date: 2024-04-09
     - Click on the apple sign and select "Shut Down" from the dropdown menu.
 
 <figure markdown>
-![Preflight Proc 1](images/Shut down .png){ width="550px" data-title="Base Characteristics" data-description=".custom-desc1"}
+![Preflight Proc 1](images/Shut down.png){ width="550px" data-title="Base Characteristics" data-description=".custom-desc1"}
 <figcaption>Base Characteristics</figcaption>
 </figure>
 <div class="glightbox-desc custom-desc1">
