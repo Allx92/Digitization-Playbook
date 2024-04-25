@@ -1,6 +1,6 @@
 ---
-title: Troubleshooting ( Dc100 & Flatbed)
-summary: The troubleshooting section below entails the common errors found with the abovementioned workstations and possible solutions to specific problems.
+title: Troubleshooting (BC100 & Flatbed)
+summary: The troubleshooting section below entails the common errors found with the above mentioned workstations and possible solutions to specific problems.
 authors:
     - Alexander Greene
     - TBD
@@ -19,13 +19,12 @@ This guide will assist the operator in troubleshooting common problems associate
 **Issue Description**: At times, while operating the device, you might notice that your Live View shows a green tint.
 
 <figure markdown>
-![Preflight Proc 1](images/Green tint .png){ width="550px" data-title="Base Characteristics" data-description=".custom-desc1"}
-<figcaption>Base Characteristics</figcaption>
+![Green Tint](../Assets/Images/Pre_Flight/Green_tint.png){ width="400px" data-title="Green Tint" data-description=".custom-desc1"}
+<figcaption>Green Tint</figcaption>
 </figure>
 <div class="glightbox-desc custom-desc1">
-  <p>Base Characteristics</p>
+    <p></p>
 </div>
-
 
 **Troubleshooting Steps:**
 
@@ -39,11 +38,11 @@ This guide will assist the operator in troubleshooting common problems associate
 ### 2. Station 2 (Red Colour from LCC Board Capture and Workspace Issues):
 
 <figure markdown>
-![Preflight Proc 1](images/Red Color Cast .jpg){ width="550px" data-title="Base Characteristics" data-description=".custom-desc1"}
-<figcaption>Base Characteristics</figcaption>
+![Preflight Proc 2](../Assets/Images/RedColorCast.jpg){ width="400px" data-title="Red Colour Cast" data-description=".custom-desc2"}
+<figcaption>Red Colour Cast</figcaption>
 </figure>
-<div class="glightbox-desc custom-desc1">
-  <p>Base Characteristics</p>
+<div class="glightbox-desc custom-desc2">
+    <p></p>
 </div>
 
 
@@ -68,12 +67,12 @@ This guide will assist the operator in troubleshooting common problems associate
 **Solution 2 (Computer)**:
 
 <figure markdown>
-![Preflight Proc 1](images/Restart Computer 2 .png){ width="550px" data-title="Base Characteristics" data-description=".custom-desc1"}
-<figcaption>Base Characteristics</figcaption>
+![Preflight Proc 2](../Assets/Images/Restart_Computer_2.png){ width="400px" data-title="Restart Computer" data-description=".custom-desc3"}
+<figcaption>Restart Computer</figcaption>
 </figure>
-<div class="glightbox-desc custom-desc1">
-  <p>Base Characteristics</p>
+<div class="glightbox-desc custom-desc3">
 </div>
+
 - If the issue persists even after restarting the camera, then there could be a problem with the workstation's software that leverages the scanner.
 - In such cases, restart your computer.
 - This would reset the system processes and could also update the camera’s drivers, solving the detection problem.

@@ -71,9 +71,9 @@ theme:
     annotation: material/plus-circle
 
 plugins:
-  - search                      # Re-add search plugin; This is required when other plugins are loaded
-  - privacy
-  - glightbox:
+  - search                        # Re-add search plugin; This is required when other plugins are loaded
+  - privacy                       # The privacy plugin offers a streamlined solution for automatically self-hosting external assets
+  - glightbox:                    # Supports image lightbox via pure javascript and includes mobile support.
       touchNavigation: true
       loop: false
       effect: zoom
