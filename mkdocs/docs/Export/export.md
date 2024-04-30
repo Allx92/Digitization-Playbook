@@ -29,14 +29,6 @@ date: 2024-04-04
       <p></p>
     </div>
 
-    <figure markdown>
-![Preflight Proc 1](images/Shut down.png){ width="550px" data-title="Base Characteristics" data-description=".custom-desc1"}
-<figcaption>Base Characteristics</figcaption>
-</figure>
-<div class="glightbox-desc custom-desc1">
-  <p>Base Characteristics</p>
-</div>
-
     1. Highlight Cursor Icon located in the Top ribbon pane.
 
     2. Navigate to and click with the ++right-button++ on the thumbnail photo and select `Batch Rename`
