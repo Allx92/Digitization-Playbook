@@ -27,13 +27,8 @@ date: 2024-04-09
     - Click on the apple sign and select "Shut Down" from the dropdown menu.
 
 <figure markdown>
-<<<<<<<< HEAD:DigitizationPlaybook_site_docs/docs/Shutdown/shutdown.md
-![Preflight Proc 1](../Assets/Images/Shut down .png){ width="550px" data-title="Base Characteristics" data-description=".custom-desc1"}
-<figcaption>Base Characteristics</figcaption>
-========
 ![Select Shutdown](../Assets/Images/Shutdown/Shutdown.png){ width="550px" data-title="Shut Down" data-description=".custom-desc1"}
 <figcaption>Shut Down</figcaption>
->>>>>>>> 1f36af55f6d11bcb7d4257455b9757b32b45d84f:mkdocs/docs/Shutdown/shutdown.md
 </figure>
 <div class="glightbox-desc custom-desc1">
   <p></p>
@@ -48,13 +43,8 @@ date: 2024-04-09
     Carefully put the lens cap back on the Camera to protect the lens from any physical damage.
 
 <figure markdown>
-<<<<<<<< HEAD:DigitizationPlaybook_site_docs/docs/Shutdown/shutdown.md
-![Preflight Proc 1](../Assets/Images/Lens Cap.jpeg){ width="550px" data-title="Base Characteristics" data-description=".custom-desc1"}
-<figcaption>Base Characteristics</figcaption>
-========
 ![Lens Cap](../Assets/Images/Shutdown/LensCap.jpeg){ width="550px" data-title="Lens Cap" data-description=".custom-desc2"}
 <figcaption>Lens Cap</figcaption>
->>>>>>>> 1f36af55f6d11bcb7d4257455b9757b32b45d84f:mkdocs/docs/Shutdown/shutdown.md
 </figure>
 <div class="glightbox-desc custom-desc2">
   <p></p>
@@ -64,13 +54,8 @@ date: 2024-04-09
     To switch off the camera, pull out the lemo power cord.
 
 <figure markdown>
-<<<<<<<< HEAD:DigitizationPlaybook_site_docs/docs/Shutdown/shutdown.md
-![Preflight Proc 1](../Assets/Images/Removal Lemo Cord .png){ width="550px" data-title="Base Characteristics" data-description=".custom-desc1"}
-<figcaption>Base Characteristics</figcaption>
-========
 ![Remove Lemo Power Cord](../Assets/Images/Shutdown/RemovalLemoCord.png){ width="550px" data-title="Remove Lemo Power Cord" data-description=".custom-desc3"}
 <figcaption>Remove Lemo Power Cord</figcaption>
->>>>>>>> 1f36af55f6d11bcb7d4257455b9757b32b45d84f:mkdocs/docs/Shutdown/shutdown.md
 </figure>
 <div class="glightbox-desc custom-desc3">
   <p></p>
