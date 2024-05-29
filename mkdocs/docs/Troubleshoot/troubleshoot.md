@@ -19,13 +19,8 @@ This guide will assist the operator in troubleshooting common problems associate
 **Issue Description**: At times, while operating the device, you might notice that your Live View shows a green tint.
 
 <figure markdown>
-<<<<<<<< HEAD:DigitizationPlaybook_site_docs/docs/Troubleshoot/troubleshoot.md
-![Preflight Proc 1](../Assets/Images/Green tint .png){ width="550px" data-title="Base Characteristics" data-description=".custom-desc1"}
-<figcaption>Base Characteristics</figcaption>
-========
-![Green Tint](../Assets/Images/Pre_Flight/Green_tint.png){ width="400px" data-title="Green Tint" data-description=".custom-desc1"}
+![Green Tint](../Assets/Images/Pre_Flight/Green_tint.png){ width="5500px" data-title="Green Tint" data-description=".custom-desc1"}
 <figcaption>Green Tint</figcaption>
->>>>>>>> 1f36af55f6d11bcb7d4257455b9757b32b45d84f:mkdocs/docs/Troubleshoot/troubleshoot.md
 </figure>
 <div class="glightbox-desc custom-desc1">
     <p></p>
@@ -43,13 +38,8 @@ This guide will assist the operator in troubleshooting common problems associate
 ### 2. Station 2 (Red Colour from LCC Board Capture and Workspace Issues):
 
 <figure markdown>
-<<<<<<<< HEAD:DigitizationPlaybook_site_docs/docs/Troubleshoot/troubleshoot.md
-![Preflight Proc 1](../Assets/Images/Red Color Cast .jpg){ width="550px" data-title="Base Characteristics" data-description=".custom-desc1"}
-<figcaption>Base Characteristics</figcaption>
-========
-![Preflight Proc 2](../Assets/Images/RedColorCast.jpg){ width="400px" data-title="Red Colour Cast" data-description=".custom-desc2"}
+![Preflight Proc 2](../Assets/Images/RedColorCast.jpg){ width="550px" data-title="Red Colour Cast" data-description=".custom-desc2"}
 <figcaption>Red Colour Cast</figcaption>
->>>>>>>> 1f36af55f6d11bcb7d4257455b9757b32b45d84f:mkdocs/docs/Troubleshoot/troubleshoot.md
 </figure>
 <div class="glightbox-desc custom-desc2">
     <p></p>
@@ -77,13 +67,8 @@ This guide will assist the operator in troubleshooting common problems associate
 **Solution 2 (Computer)**:
 
 <figure markdown>
-<<<<<<<< HEAD:DigitizationPlaybook_site_docs/docs/Troubleshoot/troubleshoot.md
-![Preflight Proc 1](../Assets/Images/Restart Computer 2 .png){ width="550px" data-title="Base Characteristics" data-description=".custom-desc1"}
-<figcaption>Base Characteristics</figcaption>
-========
-![Preflight Proc 2](../Assets/Images/Restart_Computer_2.png){ width="400px" data-title="Restart Computer" data-description=".custom-desc3"}
+![Preflight Proc 2](../Assets/Images/Restart_Computer_2.png){ width="550px" data-title="Restart Computer" data-description=".custom-desc3"}
 <figcaption>Restart Computer</figcaption>
->>>>>>>> 1f36af55f6d11bcb7d4257455b9757b32b45d84f:mkdocs/docs/Troubleshoot/troubleshoot.md
 </figure>
 <div class="glightbox-desc custom-desc3">
 </div>
